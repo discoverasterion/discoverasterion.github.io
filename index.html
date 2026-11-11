@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Rozcestník tematických databází Asterionu: Klíče bytostí, pravidlové aplikace a připravovaný herbář.">
-  <title>Discover Asterion — tematické knihovny</title>
+  <meta name="description" content="Veřejné weby Asterionu na jednom místě: hlavní portál, mapový atlas, Klíče bytostí, pravidlové aplikace, modulové texty a komunita.">
+  <title>Discover Asterion — veřejné weby a knihovny</title>
   <link rel="icon" href="assets/header1.png" type="image/png">
-  <link rel="stylesheet" href="styles.css?v=20261031a">
+  <link rel="stylesheet" href="styles.css?v=20261112a">
 </head>
 <body>
   <a class="skip-link" href="#obsah">Přejít k obsahu</a>
@@ -22,63 +22,145 @@
 
     <nav class="site-nav" aria-label="Související weby">
       <strong>Discover Asterion</strong>
-      <span>Tematické knihovny světa</span>
+      <span>Rozcestník veřejných webů</span>
       <a href="https://worldofasterion.github.io/#/home">Hlavní web Asterionu&nbsp;↗</a>
     </nav>
 
     <main id="obsah">
       <section class="intro" aria-labelledby="page-title">
-        <p class="eyebrow">Vyberte si cestu</p>
-        <h1 id="page-title">Asterion do hloubky</h1>
-        <p class="lead">Pravidla, bytosti a přírodní bohatství světa na jednom místě. Jednotlivé knihovny můžete používat samostatně; společný rozcestník je bude postupně propojovat.</p>
+        <p class="eyebrow">Známý svět. Nové obzory.</p>
+        <h1 id="page-title">Veřejné weby Asterionu</h1>
+        <p class="lead">Vydejte se do světa, najděte místo na mapě nebo otevřete pravidlovou knihovnu. Tady najdete naše veřejné portály, původní modulové texty i místa, kde se potkává asterionská komunita.</p>
       </section>
 
-      <section class="portal-grid" aria-label="Tematické knihovny">
-        <a class="portal portal-apps" href="aplikace/#home">
-          <span class="portal-number" aria-hidden="true">01</span>
-          <span class="portal-status is-live">Otevřeno</span>
-          <div class="portal-copy">
-            <p class="eyebrow">Pravidla a bestiáře</p>
-            <h2>Klíče bytostí<br>a pravidlové aplikace</h2>
-            <p>Vyhledávejte bytosti, čtěte celé aplikace modulů a porovnávejte jejich podobu v různých herních systémech.</p>
-            <ul aria-label="Dostupný obsah">
-              <li>pravidlové karty</li>
-              <li>původní PDF</li>
-              <li>srovnání systémů</li>
-            </ul>
-            <span class="portal-action">Vstoupit do knihovny <b>→</b></span>
-          </div>
-        </a>
+      <nav class="section-nav" aria-label="Na této stránce">
+        <a href="#weby">Portály a nástroje</a>
+        <a href="#moduly">Moduly ke čtení</a>
+        <a href="#archiv">Původní web a archiv</a>
+        <a href="#komunita">Komunita a podpora</a>
+      </nav>
 
-        <article class="portal portal-herbarium" aria-labelledby="herbar-title">
-          <span class="portal-number" aria-hidden="true">02</span>
-          <span class="portal-status">Připravujeme</span>
-          <div class="portal-copy">
-            <p class="eyebrow">Příroda Asterionu</p>
-            <h2 id="herbar-title">Velký asterionský herbář</h2>
-            <p>Rozsáhlá obrazová knihovna asterionských rostlin a jejich popisů. Obsah právě třídíme a připravujeme pro webové procházení.</p>
-            <ul aria-label="Připravovaný obsah">
-              <li>ilustrace</li>
-              <li>popisy rostlin</li>
-              <li>tematické hledání</li>
-            </ul>
-            <span class="portal-action is-muted">Knihovna bude doplněna</span>
-          </div>
-        </article>
-      </section>
-
-      <aside class="main-site-callout">
-        <div>
-          <p class="eyebrow">Hledáte celý svět?</p>
-          <h2>Moduly, knihy, mapy, dobrodružství a archiv článků</h2>
+      <section class="directory-section" id="weby" aria-labelledby="weby-title">
+        <div class="section-heading">
+          <p class="eyebrow">Začněte tady</p>
+          <h2 id="weby-title">Portály a nástroje</h2>
         </div>
-        <a href="https://worldofasterion.github.io/#/home">Přejít na hlavní web Asterionu&nbsp;→</a>
-      </aside>
+        <div class="portal-grid">
+          <a class="portal portal-world" href="https://worldofasterion.github.io/#/home" aria-labelledby="world-title">
+            <span class="portal-number" aria-hidden="true">01</span>
+            <span class="portal-status is-live">Testovací verze</span>
+            <div class="portal-copy">
+              <p class="eyebrow">Celý svět na dosah</p>
+              <h3 id="world-title">World of Asterion</h3>
+              <p>Nový hlavní portál s přehledem modulů, knih, dobrodružství, map a článků. Nejlepší výchozí bod pro objevování Asterionu.</p>
+              <ul aria-label="Obsah portálu"><li>moduly a knihy</li><li>mapy</li><li>archiv článků</li></ul>
+              <span class="portal-action">Objevit svět <b aria-hidden="true">↗</b></span>
+            </div>
+          </a>
+          <a class="portal portal-atlas" href="https://asterion-atlas.github.io/" aria-labelledby="atlas-title">
+            <span class="portal-number" aria-hidden="true">02</span>
+            <span class="portal-status is-live">Otevřeno</span>
+            <div class="portal-copy">
+              <p class="eyebrow">Krajiny a cesty</p>
+              <h3 id="atlas-title">Atlas Asterionu</h3>
+              <p>Interaktivní mapový atlas. Procházejte kraje, přibližujte mapy a hledejte místa pro svou příští výpravu.</p>
+              <ul aria-label="Možnosti atlasu"><li>mapové vrstvy</li><li>oblasti</li><li>místa</li></ul>
+              <span class="portal-action">Otevřít atlas <b aria-hidden="true">↗</b></span>
+            </div>
+          </a>
+          <a class="portal portal-apps" href="aplikace/#home" aria-labelledby="apps-title">
+            <span class="portal-number" aria-hidden="true">03</span>
+            <span class="portal-status is-live">Otevřeno</span>
+            <div class="portal-copy">
+              <p class="eyebrow">Pravidla a bestiáře</p>
+              <h3 id="apps-title">Klíče bytostí a pravidlové aplikace</h3>
+              <p>Vyhledávejte bytosti, čtěte aplikace modulů a porovnávejte jejich podobu v různých herních systémech.</p>
+              <ul aria-label="Obsah knihovny"><li>pravidlové karty</li><li>celé aplikace</li><li>srovnání systémů</li></ul>
+              <span class="portal-action">Vstoupit do knihovny <b aria-hidden="true">→</b></span>
+            </div>
+          </a>
+        </div>
+        <aside class="version-note" aria-label="Další veřejná pravidlová knihovna">
+          <p><strong>Pravidlové aplikace najdete také na Cloudflare.</strong> Jde o samostatnou veřejnou verzi; její obsah se může od knihovny na Discover lišit.</p>
+          <a href="https://asterion-aplikace.pages.dev/">Otevřít asterion-aplikace.pages.dev <span aria-hidden="true">↗</span></a>
+        </aside>
+      </section>
+
+      <section class="directory-section" id="moduly" aria-labelledby="moduly-title">
+        <div class="section-heading">
+          <p class="eyebrow">Čtěte přímo na webu</p>
+          <h2 id="moduly-title">Původní modulové weby</h2>
+          <p>Veřejné elektronické texty prvních modulů, každý na svém původním webu.</p>
+        </div>
+        <div class="link-grid two-columns">
+          <a class="web-link" href="https://hlavnimodul.asterionrpg.cz/" aria-labelledby="hm-title">
+            <span class="web-kind">Základy světa</span>
+            <h3 id="hm-title">Hlavní modul <span aria-hidden="true">↗</span></h3>
+            <p>Úvod do Asterionu, jeho historie, národů a zákonitostí. Součástí webu je i Klíč bytostí astrálních.</p>
+            <span class="web-address">hlavnimodul.asterionrpg.cz</span>
+          </a>
+          <a class="web-link" href="https://dalavy.asterionrpg.cz/" aria-labelledby="dalavy-title">
+            <span class="web-kind">Za hranice známého</span>
+            <h3 id="dalavy-title">Dálavy <span aria-hidden="true">↗</span></h3>
+            <p>Původní webová podoba modulu Dálavy. Kapitoly o kraji, jeho obyvatelích a místech k objevování.</p>
+            <span class="web-address">dalavy.asterionrpg.cz</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="directory-section" id="archiv" aria-labelledby="archiv-title">
+        <div class="section-heading">
+          <p class="eyebrow">Kam vedou starší cesty</p>
+          <h2 id="archiv-title">Původní web a archiv</h2>
+          <p>Starší veřejné stránky zůstávají užitečným zdrojem článků, informací o knihách i společných vzpomínek.</p>
+        </div>
+        <div class="link-grid">
+          <a class="web-link" href="https://asterionrpg.cz/" aria-labelledby="original-title">
+            <span class="web-kind">Původní hlavní web</span>
+            <h3 id="original-title">Asterion RPG <span aria-hidden="true">↗</span></h3>
+            <p>Oficiální web s novinkami, informacemi o světě, materiály ke stažení a odkazy na další asterionské projekty.</p>
+            <span class="web-address">asterionrpg.cz</span>
+          </a>
+          <a class="web-link" href="https://asterion-knihy.webnode.cz/" aria-labelledby="books-title">
+            <span class="web-kind">Knižní archiv</span>
+            <h3 id="books-title">Knihy Asterionu <span aria-hidden="true">↗</span></h3>
+            <p>Starší samostatná prezentace asterionské beletrie, autorů a knižních ukázek.</p>
+            <span class="web-address">asterion-knihy.webnode.cz</span>
+          </a>
+          <a class="web-link" href="https://asterionrpg.cz/forum/" aria-labelledby="forum-title">
+            <span class="web-kind">Veřejné diskuse</span>
+            <h3 id="forum-title">Asterionské fórum <span aria-hidden="true">↗</span></h3>
+            <p>Starší debaty o světě, pravidlech, dobrodružstvích a nápadech hráčů i autorů.</p>
+            <span class="web-address">asterionrpg.cz/forum</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="directory-section" id="komunita" aria-labelledby="komunita-title">
+        <div class="section-heading">
+          <p class="eyebrow">Svět žije díky lidem</p>
+          <h2 id="komunita-title">Komunita a podpora</h2>
+        </div>
+        <div class="link-grid community-links">
+          <a class="web-link" href="https://discord.gg/nff9kSGvEa" aria-labelledby="discord-title">
+            <h3 id="discord-title">Discord <span aria-hidden="true">↗</span></h3>
+            <p>Připojte se k asterionské komunitě a proberte hraní, svět i vlastní nápady.</p>
+          </a>
+          <a class="web-link" href="https://www.patreon.com/AsterionRPG" aria-labelledby="patreon-title">
+            <h3 id="patreon-title">Patreon <span aria-hidden="true">↗</span></h3>
+            <p>Podpořte další tvorbu Asterionu a sledujte materiály i zprávy z příprav.</p>
+          </a>
+          <a class="web-link" href="https://www.facebook.com/pages/Asterion-sv%C4%9Bt-pro-RPG/113271548682893" aria-labelledby="facebook-title">
+            <h3 id="facebook-title">Facebook <span aria-hidden="true">↗</span></h3>
+            <p>Veřejná stránka Asterionu s novinkami a oznámeními pro hráče a čtenáře.</p>
+          </a>
+        </div>
+      </section>
     </main>
 
     <footer>
       <span>Discover Asterion</span>
-      <a href="https://worldofasterion.github.io/#/home">worldofasterion.github.io</a>
+      <a href="#obsah">Zpět na začátek ↑</a>
     </footer>
   </div>
 </body>

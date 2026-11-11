@@ -8,3 +8,14 @@ Adresář `aplikace/` je samostatná kopie veřejné části projektu:
 - v okamžiku kopírování obsahoval zdrojový pracovní strom uživatelské změny v `public/app.js` a `public/styles.css`; byly převzaty do kopie, ale ve zdrojovém repozitáři nebyly měněny
 
 Cloudflare Pages na `https://asterion-aplikace.pages.dev/` nebyly tímto nasazením změněny. Pro GitHub Pages byly upraveny pouze navigační odkazy a doplněn horní proužek v kopii.
+
+## Rozcestník veřejných webů — 12. 11. 2026
+
+Úvodní stránka Discover odkazuje na veřejný hlavní portál, atlas,
+pravidlové knihovny, původní modulové weby, starší weby a komunitní kanály.
+Odkazy byly ověřeny proti veřejným stránkám a jejich současným adresám.
+Soukromé projekty ani přesměrovávající náhradní adresy do rozcestníku nepatří.
+
+Tato úprava mění pouze kořenový rozcestník a jeho styl. Obsah `aplikace/`
+ani původní grafické prvky v `assets/` se nemění. Samostatnou verzi pravidlové
+knihovny na Cloudflare neoznačujeme za synchronizovanou s kopií na Discover.
