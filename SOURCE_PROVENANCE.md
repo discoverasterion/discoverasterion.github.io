@@ -32,3 +32,8 @@ stav ověření ilustrací a zkušební PDF karty. Neobsahuje absolutní cesty
 k soukromému archivu ani interní odkazy na Discord. Waldenova Midjourney
 ilustrace z 5. 9. 2023 byla potvrzena uživatelem; její použití nemění období
 původní zkušební karty podle Času temna.
+
+Kompaktní výchozí seznam uvádí jméno, krátkou roli z první části archivního
+popisu a nejstarší citovaný modul. Roky vydání a názvy modulů pocházejí z listu
+`VYSVĚTLIVKY` původního sešitu Siomen v17. Při shodném roce se zobrazí více
+modulů; údaj není vydáván za ověřený první výskyt ve všech vydaných textech.
