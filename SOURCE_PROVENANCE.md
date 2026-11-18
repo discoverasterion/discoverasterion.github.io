@@ -37,3 +37,10 @@ Kompaktní výchozí seznam uvádí jméno, krátkou roli z první části archi
 popisu a nejstarší citovaný modul. Roky vydání a názvy modulů pocházejí z listu
 `VYSVĚTLIVKY` původního sešitu Siomen v17. Při shodném roce se zobrazí více
 modulů; údaj není vydáván za ověřený první výskyt ve všech vydaných textech.
+
+Zkušební karty nyní obsahují tři nové Waldenovy dvoustrany podle vizuálního
+vzoru Klíče bytostí: temnou malbu inspirovanou Gwentem, volný akvarel a jemnou
+knižní ilustraci. Obrazové podklady vytvořil built-in imagegen 18. 11. 2026
+podle potvrzeného portrétu; text byl převzat z předchozí zkušební karty beze
+změny. Každá varianta má PDF se dvěma A4, celou dvoustranu a originál bez
+textu. Nové ilustrace jsou označené jako výtvarné varianty, nikoli prameny lore.

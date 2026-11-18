@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "text_source": "Čas temna – dodatky, s. 16–17; text předchozí zkušební karty beze změny",
+  "layout_reference": "Klíč bytostí, otevřená dvoustrana Bazilišek",
+  "visual_reference": "Autorem potvrzená Midjourney ilustrace Waldena, 5. 9. 2023",
+  "status": "Tři nové výtvarné varianty k posouzení, nikoli další kanonické prameny",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Walden_gwent_original.png",
+      "pdf": "Walden_gwent_2xA4.pdf",
+      "spread_pdf": "Walden_gwent_dvoustrana.pdf",
+      "preview": "Walden_gwent_nahled.jpg",
+      "image_sha256": "36031480a3aac8e70be58b07c8770aa377a7decf880da677f8b60f0a12da944d",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Walden_akvarel_original.png",
+      "pdf": "Walden_akvarel_2xA4.pdf",
+      "spread_pdf": "Walden_akvarel_dvoustrana.pdf",
+      "preview": "Walden_akvarel_nahled.jpg",
+      "image_sha256": "460421a19ec011faf29dd48d0e41a6f0c652ab68682c32c35bc71db400e7a165",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Walden_kniha_original.png",
+      "pdf": "Walden_kniha_2xA4.pdf",
+      "spread_pdf": "Walden_kniha_dvoustrana.pdf",
+      "preview": "Walden_kniha_nahled.jpg",
+      "image_sha256": "975fc8dd91bf8a48e028bf72b9cc13e6e63e1b6057e1d3a8d15a9aea97dc513a",
+      "size": [
+        1492,
+        1054
+      ]
+    }
+  ]
+}
