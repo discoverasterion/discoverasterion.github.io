@@ -1,10 +1,87 @@
 {
   "tool": "built-in image_gen",
   "date": "2026-11-18",
-  "text_source": "Čas temna – dodatky, s. 16–17; text předchozí zkušební karty beze změny",
+  "text_revision": 3,
+  "text_source": "Čas temna – dodatky, s. 16–17; Sarindarské výsostné vody, s. 66, 82, 110–113, porovnáno s autorskými DOCX",
+  "chronology": "Starší portrét z Času temna; doplnění podle Sarindarských výsostných vod, včetně výhledu událostí do roku 867 k. l.",
+  "sources": [
+    {
+      "title": "Čas temna – dodatky",
+      "pages": [
+        16,
+        17
+      ],
+      "use": "Zachovaný základ staršího portrétu: původ, dvorská zkušenost, dobrodružný život a povaha; nejde o současný věkový údaj."
+    },
+    {
+      "title": "Sarindarské výsostné vody",
+      "file": "SVV_modul_hlavniText_korekturyA.docx",
+      "version": "Gold / Úžiny Tary",
+      "paragraphs": [
+        824,
+        1050
+      ],
+      "published_pages": [
+        66,
+        82
+      ],
+      "use": "Tarské království, obchodní politika roku 855, Athor a dosud neuskutečněný Letův sňatkový plán."
+    },
+    {
+      "title": "Sarindarské výsostné vody",
+      "file": "Sarindar_komplet_ M.docx",
+      "version": "Beta - reviewed / Úžiny Tary",
+      "paragraphs": [
+        1801,
+        1804,
+        1815,
+        1817,
+        1818,
+        1823,
+        1827,
+        1829,
+        1831
+      ],
+      "published_pages": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "use": "Chronologická příloha: atentáty a úkryt 864, vyšetřování a Agrunág 866, výsledky tažení a vypálení Potůčků 867. Všechny použité události porovnány s vydaným zněním."
+    }
+  ],
+  "editorial_notes": [
+    "Jméno Nerúviel a podoba Agrunág sjednoceny podle vydaného SVV.",
+    "Podezřelé z prvotních atentátů nelze zaměňovat za prokázané pachatele. Útok na Potůčky je v prameni výslovně spojen s kněžími Gwi.",
+    "Hlavní text SVV pracuje s rokem 865; chronologická příloha rozvíjí výhled až do roku 868. Karta tento rozdíl nezastírá.",
+    "Nevydaný rukopis Pro smrt a slávu byl prověřen, ale do této aktualizace nepřidáváme jeho starší vojenské uspořádání jako současný stav."
+  ],
+  "card_text": [
+    [
+      "Panovník a dobrodruh",
+      "Potomek Thalionovy arvedanské linie, někdejší král Almendoru a později vládce Tarského království. V Čase temna působí navzdory svému věku mladě; zkušenosti získal u dvora otce Riodena II. i za sedmi let dobrodružství na Taře. Sympatické vystupování se u něj snoubí s bezohledným prosazováním vlastních cílů."
+    ],
+    [
+      "Sarindarci a královská politika",
+      "Roku 855 k. l. omezuje sarindarský obchod v nově vzniklém království, zároveň však Sarindarcům přiznává monopol na hazard. Leto Hiara u něj neprosadí osídlení Athoru svým lidem; Walden dá přednost uprchlíkům z Lendoru, později však o své volbě pochybuje. Letův zamýšlený sňatek mladého Leta s královou dcerou Nerúviel zůstává plánem, nikoli uzavřenou dohodou."
+    ],
+    [
+      "Králova rodina v ohrožení · 864",
+      "Po sérii atentátů na Waldena zasáhnou útočníci i jeho rodinu: darovaný šperk přivolá ze Stínového světa trigony. Nerúviel zachrání kněz Tompo. Po dalších útocích ji král pošle s knězem a dvaceti nejlepšími gardisty do venkovského úkrytu. Tajná služba dostává mimořádně široké pravomoci k vypátrání původců."
+    ],
+    [
+      "Vyšetřování a Potůčky · 866–867",
+      "Zvonisladova Tarská tajná služba prověřuje Černou růži, kněží Gwi a Zylovy noční stíny; poslední stopu později vyloučí. Roku 867 kněží Gwi vypátrají Nerúvielin úkryt. Potůčky napadnou brúnakové, zasáhne je místní zemětřesení a tvrz vyhoří. Pramen zde další osud královy dcery neuzavírá."
+    ],
+    [
+      "Spojenectví z nutnosti · 866–867",
+      "Walden spolu s Eralisem materiálně podpoří Agrunága proti silám spojeným s Državami. Zásobování zajišťují zejména sarindarští Ormové; do Tisíce jeskyní vstoupí i vycvičení agenti a vojáci. Z tažení se vrátí sotva polovina jednotek, oba vládci však získají zkušené veterány, spojence, téměř úplnou mapu Agrunágovy říše a spící agenty v jejím nitru."
+    ]
+  ],
   "layout_reference": "Klíč bytostí, otevřená dvoustrana Bazilišek",
   "visual_reference": "Autorem potvrzená Midjourney ilustrace Waldena, 5. 9. 2023",
-  "status": "Tři nové výtvarné varianty k posouzení, nikoli další kanonické prameny",
+  "status": "Redakční syntéza pramenů; tři výtvarné varianty nejsou další kanonické prameny",
   "variants": [
     {
       "id": "gwent",

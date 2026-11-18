@@ -52,3 +52,21 @@ plaveny` (odstavce 9–10, 20, 28). Námořnický vzhled vychází ze staršího
 a portrétu v Dechu draka 1/2002; modrý kabát a přesná podoba paluby jsou
 označené jako výtvarná interpretace. Karta zachycuje období po nástupu na trůn
 a narození Siovala; nepřebírá předkorunovační věk 28 let jako současný.
+
+
+## Walden — novější modulové údaje, revize 3, 18. 11. 2026
+
+Text všech tří nových dvoustran nahrazuje původní profil omezený na Čas temna.
+Zachovává stručný základ povahy a původu, přidává Tarské království a události
+Sarindarských výsostných vod: obchodní rozhodnutí roku 855, atentáty roku 864,
+vyšetřování a podporu Agrunága v letech 866–867 i vypálení Potůčků roku 867.
+Hlavní text SVV (stav 865) a výhled chronologické přílohy jsou výslovně odlišeny.
+
+Podkladem doplnění jsou původní DOCX `SVV_modul_hlavniText_korekturyA.docx`
+(Gold, odstavce 824 a 1050) a `Sarindar_komplet_ M.docx` (Beta - reviewed,
+odstavce 1801, 1804, 1815, 1817–1818, 1823, 1827, 1829, 1831). Všechny
+použité události byly porovnány s vydaným SVV, s. 66, 82, 110–113. Letův
+sňatkový plán není označen za dohodu, podezřelí z atentátů za prokázané pachatele
+ani Nerúviel za mrtvou. Původní ilustrace i staré sazební zkoušky zůstávají.
+Veřejný manifest obsahuje přesná místa pramenů a znění aktualizované karty;
+soukromé archivní cesty se nepublikují.
