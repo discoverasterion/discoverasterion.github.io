@@ -44,3 +44,11 @@ knižní ilustraci. Obrazové podklady vytvořil built-in imagegen 18. 11. 2026
 podle potvrzeného portrétu; text byl převzat z předchozí zkušební karty beze
 změny. Každá varianta má PDF se dvěma A4, celou dvoustranu a originál bez
 textu. Nové ilustrace jsou označené jako výtvarné varianty, nikoli prameny lore.
+
+Sagjidara I. doplňuje stejnou sadu tří stylů a formátů. Politický a dynastický
+profil je novou redakční syntézou podle původních DOCX `Pro smrt a slávu –
+Vojenství` (autorský rukopis, odstavce 145–148, 157, 164) a `Linie vládců
+plaveny` (odstavce 9–10, 20, 28). Námořnický vzhled vychází ze staršího článku
+a portrétu v Dechu draka 1/2002; modrý kabát a přesná podoba paluby jsou
+označené jako výtvarná interpretace. Karta zachycuje období po nástupu na trůn
+a narození Siovala; nepřebírá předkorunovační věk 28 let jako současný.

@@ -1,0 +1,79 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "name": "Sagjidara I.",
+  "period": "Profil po nástupu na trůn a narození Siovala; starší námořnický vzhled jako obrazová předloha.",
+  "text_sources": [
+    {
+      "file": "14 - stopnuto - PSS Pro smrt a slávu - Vojenství.docx",
+      "kind": "primární autorský modulový rukopis",
+      "paragraphs": [
+        145,
+        146,
+        147,
+        148,
+        157,
+        164
+      ]
+    },
+    {
+      "file": "Linie vládců plaveny.docx",
+      "kind": "původní autorský text",
+      "paragraphs": [
+        9,
+        10,
+        20,
+        28
+      ]
+    },
+    {
+      "file": "Sagjidara.pdf / Dech draka 1/2002",
+      "kind": "sekundární článek a obrazová předloha",
+      "location": "samostatný článek s. 1–2; časopisecký portrét na tištěné s. 45"
+    }
+  ],
+  "layout_reference": "Klíč bytostí; návaznost na Waldenovu dvoustranu",
+  "visual_reference": "Sagjidara, Dech draka 1/2002, tištěná strana 45",
+  "status": "Tři nové výtvarné varianty k posouzení, nikoli další kanonické prameny",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Sagjidara_gwent_original.png",
+      "pdf": "Sagjidara_gwent_2xA4.pdf",
+      "spread_pdf": "Sagjidara_gwent_dvoustrana.pdf",
+      "preview": "Sagjidara_gwent_nahled.jpg",
+      "image_sha256": "852624c7abb34cfb099e317426bddef53899b9775e5742c63d9bb5e1ca44d1f1",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Sagjidara_akvarel_original.png",
+      "pdf": "Sagjidara_akvarel_2xA4.pdf",
+      "spread_pdf": "Sagjidara_akvarel_dvoustrana.pdf",
+      "preview": "Sagjidara_akvarel_nahled.jpg",
+      "image_sha256": "a0edf3e5142461f9859d10de7d5282bcca840484dd0898af145594677ed71426",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Sagjidara_kniha_original.png",
+      "pdf": "Sagjidara_kniha_2xA4.pdf",
+      "spread_pdf": "Sagjidara_kniha_dvoustrana.pdf",
+      "preview": "Sagjidara_kniha_nahled.jpg",
+      "image_sha256": "b09e7408f32d7e62236412946005e0b7b14da70c1dd50880011ce871b8f9f02f",
+      "size": [
+        1492,
+        1054
+      ]
+    }
+  ]
+}
