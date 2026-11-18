@@ -19,3 +19,16 @@ Soukromé projekty ani přesměrovávající náhradní adresy do rozcestníku n
 Tato úprava mění pouze kořenový rozcestník a jeho styl. Obsah `aplikace/`
 ani původní grafické prvky v `assets/` se nemění. Samostatnou verzi pravidlové
 knihovny na Cloudflare neoznačujeme za synchronizovanou s kopií na Discover.
+
+## Cizí postavy — 18. 11. 2026
+
+Podstránka `cizi-postavy/` je veřejný export pracovního obrazového katalogu
+`cp-vizualizace-2026-11-18`: 3 725 záznamů a 33 obrazových podkladů.
+Hlavní list Siomen v17 obsahuje 3 567 záznamů; další záznamy jsou oddělené
+doplňky z článků a pojmenované bytosti. Úplnost vůči všem pramenům není doložena.
+
+Export zachovává vyhledávání, pořadí podle významu, bibliografické odkazy,
+stav ověření ilustrací a zkušební PDF karty. Neobsahuje absolutní cesty
+k soukromému archivu ani interní odkazy na Discord. Waldenova Midjourney
+ilustrace z 5. 9. 2023 byla potvrzena uživatelem; její použití nemění období
+původní zkušební karty podle Času temna.

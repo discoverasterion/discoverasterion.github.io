@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-18",
+  "postavy": 3567,
+  "all_records": 3725,
+  "groups": {
+    "postava": 3567,
+    "doplněno z článku": 10,
+    "drak / božstvo / pojmenovaná bytost": 59,
+    "pojmenovaný exemplář": 89
+  },
+  "rank_counts": {
+    "1": 62,
+    "2": 417,
+    "3": 1428,
+    "4": 1391,
+    "5": 269
+  },
+  "old_cp_entries": 480,
+  "old_cp_unresolved": 33,
+  "source_inventory_date": "2026-10-26",
+  "original_workbook_checked": true,
+  "indexed_source_files": 45655,
+  "records_with_source_links": 2433,
+  "limitations": [
+    "Všech 3567 záznamů hlavního listu v17 je zahrnuto. Nejde o důkaz úplnosti všech vydaných ani nevydaných textů Asterionu.",
+    "Výskyty jmen nejsou úplnou kontrolou životopisů. Stejnojmenné osoby zůstávají odděleny.",
+    "Význam 1–5 je převzatý ze Siomena; pořadí uvnitř stupně je pracovní a zohledňuje roli a počet citovaných pramenů.",
+    "Stav * / † a slovo současný jsou údaje archivu vztažené k jeho chronologii, nikoli k libovolné herní době.",
+    "Není ověřen aktuální Overleaf ani doplněna jména ze všech jeho rozpracovaných projektů."
+  ],
+  "visually_checked_assets": 33,
+  "named_visual_characters": 28,
+  "probable_visual_characters": 1,
+  "article_files_searched": 113,
+  "magazines_searched": 63,
+  "magazine_pages_visually_checked": 105
+}

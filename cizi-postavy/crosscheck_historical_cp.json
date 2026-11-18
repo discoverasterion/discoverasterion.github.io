@@ -1,0 +1,5518 @@
+[
+  {
+    "name": "Abri Dlouhonohý",
+    "refs": "VTB",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 17,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "13fabf40eb22"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Adaslav",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 19,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "15004e4dca6e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Adram Mirha",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 21,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "adam mirha",
+        "ids": [
+          "dc94f1be59c1"
+        ]
+      },
+      {
+        "alias": "drasmira",
+        "ids": [
+          "b90a5d71e22e"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agog",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 23,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "azog",
+        "ids": [
+          "b854c36737ca"
+        ]
+      },
+      {
+        "alias": "argo",
+        "ids": [
+          "fd27d1457f2e"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agrún",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 25,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a8f843eb668c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Aizerin z Binarei",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 27,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Aja Wan Čin",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 29,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "02a726ef7628"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ajnar Vrut",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 31,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "528d9de3ba26"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Akana",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 33,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "alkana",
+        "ids": [
+          "fd904f245d1f"
+        ]
+      },
+      {
+        "alias": "ankan",
+        "ids": [
+          "0f8bb4e1c2a4"
+        ]
+      },
+      {
+        "alias": "akuna",
+        "ids": [
+          "4d22a162f304"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alim",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 35,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4663999e78c4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Alist Krovinsky",
+    "refs": "DD 3/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 37,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1f440c77625c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Alrik er Forgon",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 39,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b6c8bc7a78cc",
+      "e3be69e17f96"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Alwarin",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 41,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "b692c77c0db7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ambrozius",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 43,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8444b28ba5b5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Amošt",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 45,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2c8f8e8c6324"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Anakrom Černý Oheň",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 47,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5103ce844682"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Anaximus Rilondský",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 49,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "69a3209d33a0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Andrzej Matzejovski",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 51,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "eb57486fac4f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Andřej",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 53,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "68c6128a1b79",
+      "7ab533b54969",
+      "fc03d453cfb0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Andy Varčák",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 58,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Ang Gowruug",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 60,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "angh gowruug",
+        "ids": [
+          "aca967b32718"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Angušar Tarinaj",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 62,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "22651031d069"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Aniahar",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 64,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f95f3fe17ece"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Aren z Ireanu",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 66,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "aren er irean",
+        "ids": [
+          "26c5c05368cc"
+        ]
+      },
+      {
+        "alias": "sarni er irean",
+        "ids": [
+          "1165096e4590"
+        ]
+      },
+      {
+        "alias": "jan z miarianu",
+        "ids": [
+          "9f31ecf481ff"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arkaxa Žlutá",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 68,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "98913cd17c50"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Armel Tirgont alias Stín",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 70,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "armel tirgont stin",
+        "ids": [
+          "a81e50ee3e80"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arxela",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 72,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "86d9429454f1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Arxilerius",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 74,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d28b9405593b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Arxis",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 76,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "acaf11b02930"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Asáman",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 78,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4a738f6b3732"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Asbrax",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 81,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8928a67be3ad"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Asja",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 83,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f48852c822ef"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ašrak Tanazi",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 85,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6fa27f18a21e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Atechl",
+    "refs": "DD 3/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 87,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f3652af9fbbe"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Aurigen",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 89,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "6256c62d3ff7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Awa’na’kanji",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 91,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a04d3082d5dd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bah",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 93,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "10a9159197e4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bakutu",
+    "refs": "DD 6/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 95,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "13798f48d59a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Barachax",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 97,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "80996bbf3d3f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Barkara",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 99,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "885b444eb25e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Be Jang",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 101,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ad2e54da1732"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bělana Tichá",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 103,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "476afdecc74b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Betridal",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 108,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2c39ff0272d4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bezejmenný mág",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 110,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2c466f6a607f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Blábol",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 112,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "fdfd9bd93bdf"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bladřej",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 114,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "94d8d8423074"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Blaten",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 116,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3f723b46eda6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Blažej Robotný",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 118,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "aebab347a933"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bog",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 120,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "e43c9ccaaf25"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bogar",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 122,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "14c791430f25"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bonifác Bachruš",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 124,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "35a32c7a9ec4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bononot",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 126,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "98d56905e06f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Boren",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 128,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "63090a82c502"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Borin III.",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 130,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "21fa86b92d86"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Brada",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 132,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3b351d2bf3a6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Brašgrúg",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 134,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d27e94339830"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bražidar Oplacný",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 136,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "612d3d47c68e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Brdonek Sezdola",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 138,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a37953442a31"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Brian z Daerlenu",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 140,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "brian er daerlen",
+        "ids": [
+          "d8718cbf5c46"
+        ]
+      },
+      {
+        "alias": "orean er daerlen",
+        "ids": [
+          "c6cbeef56284"
+        ]
+      },
+      {
+        "alias": "ilian er daerlen",
+        "ids": [
+          "b3a2b0cd4ed4"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bubungi",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 142,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "50547ef197de"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Burgal",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 144,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cc3a81ce4425"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Bwun",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 146,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "28a9f1f70ba4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Býk",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 148,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6f7fe780cf87"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Calisto Adlaremse",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 150,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bcffcd484918"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ce Čchan",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 152,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "660e1eb44dea"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Cedrik",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 154,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "dd3b0b50da3e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Coriven",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 159,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4d4f18cc725d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ctirad Levovlas",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 161,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "ctirad levoslav",
+        "ids": [
+          "6c409496b6cc"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cyrel",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 163,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c5b906e743e8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Čador Vítr",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 165,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cafdc97c89a6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Černá vdova",
+    "refs": "DL + ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 167,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5a301e97722c",
+      "b8babe94c183",
+      "c4e9185d664f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Čche-ming",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 169,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4d99f6309d42"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Čun Weng",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 171,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1957cc88b076"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dagil Hamlon",
+    "refs": "DD 5/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 173,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d41f74efc90a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dalimir Rilek",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 175,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a89952737a4e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Damona Oxor",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 177,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d0b47f74f1bf"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Danimon Morenský",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 179,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0539fed866e9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Darias",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 181,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "farias",
+        "ids": [
+          "article-farias"
+        ]
+      },
+      {
+        "alias": "darius",
+        "ids": [
+          "e1a6a8104d88"
+        ]
+      },
+      {
+        "alias": "darmila",
+        "ids": [
+          "4f5efbe1996b"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Darmodal",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 183,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "37101e66fa37",
+      "6e6306a7df6d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Darna",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 185,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "57dd351d3c3b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dašnarot",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 187,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e2c465ebc5da"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Daxar",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 189,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "383f31d294ea"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Daxor Černozem",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 191,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bdcbe413f8c8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dedar Strblic",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 193,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "dedar strbic",
+        "ids": [
+          "f43e103fff6c"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Delcante",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 195,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "eec777737eaa"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Delkan",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 197,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3645e2446f7f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Digor Bogdar Mladší",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 199,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "digor bodgar mladsi",
+        "ids": [
+          "04e5fc80ef41"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dorgal Ingertin",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 201,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6a0fe9ee61a9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dorn Flavel",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 206,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5e16f138ffdb"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Drajgo Krvavec",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 208,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ecaae0761a2e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Draka",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 210,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "eace0b5e93d6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Drasmira",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 212,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b90a5d71e22e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Drik",
+    "refs": "HM * DD 5/03",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 214,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "faa9298e40fc"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dron",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 216,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1b342f83831d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Drubalt Bílý Ohon",
+    "refs": "DD 2/01 * HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 218,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "32131801ae69"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Drugor",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 220,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "027e2e6daf7a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Duana",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 222,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ce4354774941"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Duvándí",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 224,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "71a3edd6b0de"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dvoren Zlatoústý",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 226,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "29bb7c805ab2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Dwanmir Plešatec",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 228,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "234bfc738f7b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ejši",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 230,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "833c726b8536"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Elarim",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 232,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "05b870e6481a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Eldros",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 234,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b2f8564cc158"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Engolty",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 236,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c20cc632d1ac"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Enšude",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 238,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "f514f06ed02e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Eralis",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 240,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "12fc1bb9c676"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Eranis",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 242,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "cb8358f45d3b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Erthu-Patak",
+    "refs": "ZPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 244,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "05da2ea905a0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ertnyk",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 246,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5bb85d3e6cd6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Erwal",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 248,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "611965e4e314"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Elexan",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 250,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "aa666e3b520d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Escultan",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 252,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b98d31454c5a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Etuxbert",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 254,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b59ff30c3d9b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Faela er Daerlen Mladší",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 259,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f3cf700f42e8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Faela er Daerlen Starší",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 261,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e76f911d002f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Fanghor",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 263,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1ab0e326812b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Farlin",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 265,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "dc3e19d41f2c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ferisíd",
+    "refs": "DD 4/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 267,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "37eb4b24b027"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Finering",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 269,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "415dba645922"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Finian Stříbrovlasá",
+    "refs": "DL + OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 271,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c739b5ea3fbc"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Fionka",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 273,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d5c33c51434a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Frilwan Dvojí Tvář",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 275,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "frilvan dvoji tvar",
+        "ids": [
+          "490789388562"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frýgyr",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 277,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "03c385519bf3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Fuasmongua",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 279,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d952ca839986"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Fu Min",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 281,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "08ac90269876"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gačko Drznij",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 283,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "726c091ac7c9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gahard",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 285,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8445b86662c1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gáin Čtyřprstý",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 287,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0665185fd19a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gabriela",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 289,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ce46a604d33b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Galena",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 291,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "48e8d1a82373"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gas-gar",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 293,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "12c7aa993a3b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gdar Sekh",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 295,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0daa2bb6b1b8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Geran Iluzionista",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 297,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e1453bfb85c4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gerenika Čerevová",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 299,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c887cafb736d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gidivor Vari",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 301,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5fdb4964a5ac"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gildan",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 303,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "064477316dbb"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gleva Čerevová",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 305,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f7c1e92209d9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gnard",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 310,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "83db22fc9c5e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gojslava Prešernická",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 312,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2ef1d5ff5f66"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gonča Panše",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 314,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1afb88a2f87a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gon Tal Wuh",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 316,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "984378841fc7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gorazd",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 318,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b4320c5ba1a9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gorsan",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 320,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c7486c420222"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gradan",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 322,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b95f32bb8905"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Grašik",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 324,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1e0899528422"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gromen",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 326,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8c1afe2118ce"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Guršen",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 328,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6c011fbd4e20"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gwah’al’unga",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 330,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "98fb336cecb8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Gyndak",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 332,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5ece1f31bd97"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Habiwe",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 334,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "efd6c09dd4cd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Halaxien Třapocký",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 336,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f6e3edad7263"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Haluxic",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 338,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "22e067bc0b56"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Han",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 340,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a839354cd0c9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Harkan III.",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 342,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "b4bf3bb7599c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Harluk",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 344,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "45763c77fd6d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Harmgowrin Hořící Vous",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 346,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e1c8d8c9f7a6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hédin II.",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 348,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bf329c96f6f8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hi",
+    "refs": "ZP + OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 350,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e67f1b414e65"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hlas Sartharonu",
+    "refs": "VTB",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 352,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "60448c53dd90"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hnízdlo Vrtulka",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 357,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5c7c3959c69b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Horazd Křidýlko",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 359,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "962a57443723"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hromare",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 361,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e368bf4ea68c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hrúgvargh",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 363,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b2dc793e1549"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hul",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 365,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "57d3c64a8a0b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Hwarišt",
+    "refs": "DD 5/01",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 367,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f1d09412ae4b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Chaleb",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 369,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b003911894f3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Churo",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 371,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "83556d3afab1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ignácius Astrakalam",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 373,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "931ae91724ba"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ilendor",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 375,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d95543e709a2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Il Mu Čej",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 377,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0d9a1fe600a6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ilveth",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 379,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9f69320779cb"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Indra",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 381,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ecae6cca809d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Intrin",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 383,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1412c2985e9e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Isaka",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 385,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "68cc4da9bc68"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Iskalon",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 387,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b20701e16c8d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Iskander er Sinwar",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 389,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0a62d07843b5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Isker Nolias",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 391,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b02c3ed040a9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Isma",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 393,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "af8854265d5d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Iš",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 395,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "43458c25f5c2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ištak",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 397,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5eb0b965a20f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ivir Čerev",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 399,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cfbfbf789ad9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Iwritha",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 401,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "iwirtha",
+        "ids": [
+          "db77c7cc3b0b"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iztok Celigojovič",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 406,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "fd53ce5074fd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jacík Ildan",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 408,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "jarcik ildan",
+        "ids": [
+          "032a1b703625"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jadroš",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 410,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8e25119e350d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jagharda",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 412,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "76e3845df0cd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jalovec",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 414,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bc0f0cfb2d16"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jalwin",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 416,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f4460edadd2f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jan Bůřovský z Bůřova",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 418,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "426c05e31af2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Janix",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 420,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b7da0ae6b192"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Janoš Brukka",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 422,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4132430ed2c0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jarek Nibelíz",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 424,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "061dbda3e09f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jarodal Pěvec",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 426,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "50b5b5b19257"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jaroš",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 428,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9dbc0aa9024c",
+      "b4f1fcb88b15",
+      "c3ebb0c9558c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jiu Jao",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 430,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f5be8b9f5765"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jixra",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 432,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "27a8a53420c8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Joachim Silezio",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 434,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5a7375032350"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Johanik Mrštný",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 436,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "461cbd8e882c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jola",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 438,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4403f7ec9829",
+      "5032953ca817",
+      "f0cb76f810ca"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Josek Orlem",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 440,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "65b4c0291207"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Joskiara Nandala",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 442,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "776a53b0a5d4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jovan er Daerlen",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 444,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8bb0a913b558"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ju Maj Wu",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 446,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a9e7827af83d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Jurij",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 448,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4f314eeed2df"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kadaghma",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 450,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d3b4cfb0b595"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kajčina Spalující Oko",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 452,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "41b9c7517c3f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kalian",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 457,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7e46a6cbbf75"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kalminar",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 459,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "f8a288293b4b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kandala",
+    "refs": "DD 4/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 461,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "38c74ca2e022"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Katanga",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 463,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "defd4a697bf2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Katelyn",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 465,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d165dfb845a2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Katjak Ohnivlas",
+    "refs": "DD 5/01",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 467,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9ff746cdd476"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kazarda",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 469,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "54e95d8ee8ca"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kerengen Jilmorad",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 471,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "58c1f688278d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Khar",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 473,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "1d71d4f832fb"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kimbe",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 476,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e852d257d16b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kiraxa Flavelová",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 478,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "74401e994517"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kirbeg",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 480,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "cece6eff4a51"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kir Naghoš",
+    "refs": "DD 4/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 482,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1e63a9100098"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Koj Fin Chao",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 484,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cca3bc2ca750"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Korský děs",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 486,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "645d262b0553"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Korwal",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 488,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "923f3077fbee"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kručinka",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 490,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e684ceb823ca"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kull Copatý",
+    "refs": "DD 1/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 492,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e348a7ba359c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kuluvakán",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 494,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "693c4c2c23c8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Kwanga",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 496,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3dca2214a87c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lada Čerevová",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 498,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1ac731080eef"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lady Licie",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 500,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Laito",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 502,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "20787b9333d5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lansel",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 507,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b35e2f98e252"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lat’c Fuo",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 509,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1a56c353a99d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lesana",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 511,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c7d008e7cf5a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lesík Krvavý",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 513,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Lešek Stankiewicz",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 515,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "02c8676f547a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lešek Šetelj",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 517,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "28cde68b1a1c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Leth",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 519,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6903eaeb450b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lev Lukjanovec Třízubský",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 521,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "lev lukjanovec",
+        "ids": [
+          "208c6e0a03be"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Li",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 523,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "25d85fda61a5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lien",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 525,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "30fb0d78f848"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lilia z Drastenu",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 527,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "935fe65ceb54"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lí Lin Lá",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 529,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "489df10a1ddd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Limi Lin",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 531,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5044b5137331"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lin Fu-Ťchien",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 533,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "67cdfce55c9e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lindon",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 535,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bf73b0cec57c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lipka",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 537,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3bdc13729a8d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Li Šao Ťing",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 539,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "26a9e3e4d86f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lithar",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 541,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1e1ecefe0da4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lord Purveli",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 543,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8317a6c7757b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lórwen",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 545,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2f4533453d52"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lun-jing",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 547,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3ac3e198aaf3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lupač",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 549,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8045c05dff78"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Luxikan",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 551,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "418c94d4e99f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Lyamir er Sinwar",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 553,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "32072f0ce7af"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Maari",
+    "refs": "DL + OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 558,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2033c6bc3333"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mabu Vabi",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 560,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9e4662377221"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mačulkak",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 562,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3e308d63118c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Machomej Čerev",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 564,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4b1068bb7cc8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Malbuk er Tifain",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 566,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c321c05833de"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Malix",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 568,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "455b8cdf91b7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Manakar",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 570,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "503853e54948"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Manthea",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 572,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6d7bf3cf54b3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Marach",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 574,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cc9b0c9d5db9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Marantiel",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 576,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4f54544c9442"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Marselina",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 578,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bf3d1297b33d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Matyš Bodrich",
+    "refs": "DD 3/01 * HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 580,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "matys bodrych",
+        "ids": [
+          "745b0bca7131"
+        ]
+      },
+      {
+        "alias": "matyas burloch",
+        "ids": [
+          "002bbcf3a330"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "M’Biya",
+    "refs": "HM + OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 582,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "m byia",
+        "ids": [
+          "77dd0a154f1c"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medivin",
+    "refs": "DD 6/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 584,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e9828251a80d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mgaraba",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 586,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f39e24216009"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mia Tače",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 588,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b4a0ffb78a7d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Miguel",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 590,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "579c01820afe"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Miha Jarleb",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 592,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d09c056dd96d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mich Tříprstý",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 594,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "69983ab81b57"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Miršubal",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 596,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "922fbd1cb5c2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mitogar Čorn",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 598,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f7ae387ea479"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mitroch",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 600,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "55420bdcca1e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Moklačíl",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 602,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a4851b023fb4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Mortus",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 604,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "92a94b021a86"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Morxain",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 606,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b8ca58a90af3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Muhar",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 611,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c8021b2aaa09"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Murat Jochra",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 613,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b7480b22b559"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nabuczek",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 615,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5103495cd947"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Namiera Sandre",
+    "refs": "ZPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 617,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cccfa3ed027b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nan-šae",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 619,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cfa1b6a35ac9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nandra er Siunwar",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 621,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "nandra er sinwar",
+        "ids": [
+          "260403225d31"
+        ]
+      },
+      {
+        "alias": "vaera er sinwar",
+        "ids": [
+          "9d08cc3e11d5"
+        ]
+      },
+      {
+        "alias": "iskander er sinwar",
+        "ids": [
+          "0a62d07843b5"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narcis Trhlo",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 623,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "44016ce9a65c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Narna",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 625,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e958ed96ffe0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Narni",
+    "refs": "DD 06/03d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 627,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "dcc4e178489a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Narsewal",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 629,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bc66a7399422"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Narviš Paloch",
+    "refs": "HZMd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 631,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8aaf904f7e1a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Narzian Šedý",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 633,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ad946a215abe"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "N’doma",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 635,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "bebcf5d63bf6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "N’gio",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 637,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "801b30136a79"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nexan",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 639,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "461218add7e8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ngawanya",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 641,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b9b4a7acde1d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nialdinia",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 643,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b101ba1298dd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nije",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 645,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d9260cde536c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Niome",
+    "refs": "ZPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 647,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b8792352a625"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nontuzuba",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 649,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d811b2bed776"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Numrakurundži",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 651,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9a6265edef44"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nur-Tu-Rui",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 653,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "fc3b4e3a631a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nylnir",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 655,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6cb0064e6621"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Nyunyu Mtwango",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 657,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a7e481b0e943"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Obruk",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 662,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3d130ca01ab8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Očulawa",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 664,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3c2957c3e1a9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Okhanya",
+    "refs": "DD 6/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 668,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e5c41f298d7a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Olgus Izjasalvič",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 670,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "olgus izjaslavic",
+        "ids": [
+          "1ce137ad72f9"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Olisej Mludjava",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 672,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "69c0afe634e1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Olšín Stopař",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 674,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e66d24617f12"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Omawanga",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 676,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0b8dc05addd4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ondo",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 678,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9b0dc169e687"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Or-kesk",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 680,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4254661d546b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Orrefors",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 682,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "330379f10a2f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Orsten",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 684,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "b7b60cb13090"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Oxiadar Rudolící",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 686,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6be8f11d6adf"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Paharxana",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 688,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f5b186bc0f08"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pai Čhu-čchan",
+    "refs": "DD 5/01",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 690,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "pai cchu cchan",
+        "ids": [
+          "db9fee4eb1cd"
+        ]
+      },
+      {
+        "alias": "pai cchu cchan pancucha",
+        "ids": [
+          "db9fee4eb1cd"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pán zlodějů",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 692,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "044b822111c0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Paxi",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 694,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4b52ef32d16b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Peniar",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 696,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b4f7634b9b5c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Perinean",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 698,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "910b388b65c8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pěšinka Zlatonohá",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 700,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d954beae1eb6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Petar Varaxin",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 702,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b1b81087f40e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Petros Poutník",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 704,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "2138fff3dd65"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pidlužmák",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 706,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3de07a7d6f9e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pilka",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 708,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0940c32cf7db"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pjotr Volovnicin",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 713,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d528892bb702"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pondarei",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 715,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f3636908f2aa"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Pomelok",
+    "refs": "DD 3/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 717,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a5def6d1911e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Radomír",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 719,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "62fd64443a67"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Radomír Dembowski",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 721,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1cc85a4dc105"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Radoslav Mincekus",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 723,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "595502e806a0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Radugoj",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 725,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c3844732ae8c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Raduxoj",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 727,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a98e0f3f29d8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Radwin",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 729,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c38f406e141a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rachtus",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 731,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "237d4d42c0ef"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rajšak",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 733,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7a6327dd30ca"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rakyňa",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 735,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "08e913789a1e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ranchez Amiro",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 737,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "rancez amiro",
+        "ids": [
+          "f947a1ae3f87"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rawlak",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 739,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3a2ab4f52b33"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ravú Slepec",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 741,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "38ef5e6e6fb7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Raxentir",
+    "refs": "DD 1/00 * PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 743,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6de2494eb4f0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Raztor",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 745,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1616e2b0f5ce"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rebenic",
+    "refs": "DD 4/00 * PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 747,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "441143eebc74"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Reqinoix",
+    "refs": "DD 3/01",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 749,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6cb4c1083cd7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rezka",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 751,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a24498118dd2"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Riam",
+    "refs": "HM + DD 2/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 753,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "6b7b006877ca"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rioden II.",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 756,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "656cfc656b50"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rioz",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 758,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "dcfd6e619869"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ri Tase",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 760,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "701d394fb46f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Riwilion",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 762,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "18a5ee3df81c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rodrag Grlic",
+    "refs": "DD 4/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 767,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5a235155596c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rodrigal Cestovatel",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 769,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1f3cd7ba895f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rogi",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 771,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "23688926bfec"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rrung",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 773,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d82ddc6831b6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Rudi",
+    "refs": "DD 1/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 775,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "52f8a07c80cd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Runigen",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 777,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f8ee829c588f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Saghúka",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 779,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9b47b71efb74"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sagjidara Mořská princezna",
+    "refs": "DD 1/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 781,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Saj",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 783,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f112cd782222"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sajhla Lajing",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 785,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "22b23e88ecb5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Saldor er Rewin",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 787,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c30fced61718"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sali Sagleri",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 789,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "561184b23b1a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sami z Ireanu",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 791,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "sarni er irean",
+        "ids": [
+          "1165096e4590"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samila",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 793,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6379e182ef00"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "San Žin",
+    "refs": "ZPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 795,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "41096372cef9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Saňa Taradžinská",
+    "refs": "ZP + DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 797,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b99deebbe2de"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sarathin",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 799,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7cab2ec01adb"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sariika",
+    "refs": "HM + OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 801,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4c1c83ae39cd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sava",
+    "refs": "DD 1/00 * PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 803,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f4dc29b6a71a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Seka",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 805,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "74dde25ea303"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sh’xinga",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 807,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "57af2836354a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sigred",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 809,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b167dc78a4a3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sigron",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 811,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5fb51497cfb0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Silma",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 813,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "056b3d1d8d97"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Sinchar",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 815,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "57d7450ad7ae"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Siowenb",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 820,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "siowen",
+        "ids": [
+          "37c5c44492b5"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slez Kropický",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 822,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a1056265aac1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Smrťák Kalin",
+    "refs": "DD 06/03",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 824,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Steing",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 826,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "089fe96d3768"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Stigeril",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 828,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "97b74b1647d6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Strunka Čerevová",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 830,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4e1acae9462d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Strogox",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 832,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "38e432c6c991"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Svaroch",
+    "refs": "DD 3/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 834,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "011676db7a16"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Svatava Exakerta",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 836,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d1fa5203e75d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Svajtlog Jiskřící",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 838,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e781fe0e210a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "S’waya",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 840,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "711243fee124"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Swearin",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 842,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ea9d18390fa6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Šé Wu Ken",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 844,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "96faa2623911"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Šim Son Li",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 846,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c72305f0b2e1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ší-poné",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 848,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b4080028c993"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Špirtheben",
+    "refs": "PPd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 850,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0df5936d7522"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Štíhlá Antilopa",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 852,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f0d8faa70237"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tal Čerev",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 854,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "9c8c4df02a2a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tal-paj-šek",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 856,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f9d73b1f3090"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tandango",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 858,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "47a9e45ab075"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tardul Wrep",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 860,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1f50cd68f868"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tarian",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 862,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7e93071c4a02"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tark-uk",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 864,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8117f2f01ba8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tarxageno Modrý",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 866,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1453bee9781b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tarxis",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 871,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3d2248927d6f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Taxaonirta",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 873,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "172ceca3095e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tejča",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 875,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3dac11d2cdbc"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tekma",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 877,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0ea74c4c64fc",
+      "44950fe86c6d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Telurian",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 879,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a65b05ecca52"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tepasalu",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 881,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "6c6ed1bb2bc5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Teriadna",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 883,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "661664c956da"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tetrjav",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 885,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "tetrax",
+        "ids": [
+          "3c969d079ec2"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thakma",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 887,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "t hakma",
+        "ids": [
+          "37e39059f256"
+        ]
+      },
+      {
+        "alias": "tekma",
+        "ids": [
+          "44950fe86c6d",
+          "0ea74c4c64fc"
+        ]
+      },
+      {
+        "alias": "takal",
+        "ids": [
+          "df914ab74568"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Therold I.",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 889,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a8222be16518"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Thorgrim Palcát",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 891,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "354316f4582f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tiago Nabuloš",
+    "refs": "DD 3/01 * HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 893,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "af0bcfe98a0a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ti  Žen Tie",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 895,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "fb983d7c6b22"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tobrax",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 897,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "06427c880e8a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tompo Vítámvás",
+    "refs": "DD 2/01 * HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 899,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f2f3b7e874fc"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tork Tilkilarin",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 901,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b6917d402fec"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tráin Zručný",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 903,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5dc29b72ab7f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Traven Jarleb",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 905,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ad618374b74b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Trigerog",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 907,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "32cb0072bdde"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Triwumír",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 909,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f0443ff96a19"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Trpimir Brugarič",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 911,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "b4d732434c00"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tulka",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 913,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "dd8fb672980d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Tyli",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 915,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "db004cd80811"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ubaro",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 917,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c9d0ca9caa81"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ugrien",
+    "refs": "HM + DD 5/01",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 919,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "3c7ec6da28a4"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Uhor Tasarski",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 924,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "c49f509549ba"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Uji Sakari",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 926,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d1f185b1230d"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ukuwangi",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 928,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "54e6f216802a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ulcen",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 930,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "34eeba70c623"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ulero Mangeras",
+    "refs": "DD 4/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 932,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "f2e338ea1843"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ulfen Statný",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 934,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "61c1fd2d868f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ulgang Sturlunsor",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 936,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "da742c4a53e1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ulnubukak",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 938,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "97b3206e30d7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Ultjev",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 940,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": []
+  },
+  {
+    "name": "Umar",
+    "refs": "DD 6/01d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 942,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ea51424108c0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Umbek",
+    "refs": "NSd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 944,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e62bf31b2363"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Umiraxor",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 946,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e671e0348881"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Um’wangu",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 948,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "770b861e467f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Val’Doren",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 950,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9f5c510e07bf"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vana Čerevová",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 952,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9c4e405fabf0"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Varasix",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 954,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "483c2224a63c"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vasašír Lívd",
+    "refs": "DD 4/03",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 956,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e9e881d03787"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Věčný Plamen",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 958,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "38250ef0706b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vědula Sileziová",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 960,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "e4621c1434d6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Venir",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 962,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "1a77f31a4d8f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Viarenika Taplová",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 964,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "40f71ae9f56e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vieen",
+    "refs": "NS",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 966,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "84710a696925"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vjer",
+    "refs": "VTBd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 968,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a8c49e364d6b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vlastědrav",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 970,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7b6aca839b39"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vokouněk Vošáhlo",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 972,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ffdcb2f80c2e"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vrač Čerev",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 977,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5e4672e1d5a6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vrog",
+    "refs": "DD 5/02d",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 979,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "5ea2bd750006"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vugur Hnág",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 981,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "32e5b57c6dd3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Vuk Čerev",
+    "refs": "PP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 983,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "09cbe0924978"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wanda Krakorična Rzedzianska",
+    "refs": "DD 1/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 985,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "ef59506b3c57"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wanya",
+    "refs": "DLd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 987,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9bb267c2f2e8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Waščalun",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 989,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "0fa1310710b5"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wé",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 991,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "cb591ef460f3"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Welekao",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 993,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "efd4bac8499f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Werkan",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 995,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "34f3fa372e16"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Weskon",
+    "refs": "DD 5/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 997,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d716b834ac09"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wilk Bruznicki",
+    "refs": "ZP",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 999,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9bec97902cd8"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wu Šeng",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1001,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "9765d65a11c9"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Wu Than",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1004,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7131c997ffe6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Xama",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1006,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "db3b5451b8b7"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Xillos",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1008,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "8195afed6df6"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Xin Li Xin",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1010,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "825006ca4716"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Xintra",
+    "refs": "HM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1012,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "d600ea48965f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Yvgar Brúg",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1014,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "96230776a89b"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zagraxis",
+    "refs": "HZM",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1016,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7aa1a4fff07a"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zamiana",
+    "refs": "DD 1/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1018,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "33655857bd7f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zan Linki",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1020,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "abe1820b63cd"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zantur",
+    "refs": "HM + FA + DD 2/03",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1022,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "c0337712b565"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zantrubin",
+    "refs": "OLDd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1028,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "41355d1bb794"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zárclain",
+    "refs": "FAd",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1030,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "a91b5c5c6549"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zdiboř",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1032,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7f1a1ef9bc81"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zenwexar Jestřáb",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1034,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "4d088614b558"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zogen",
+    "refs": "OLD",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1036,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "676aaf478db1"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zowren",
+    "refs": "FA",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1038,
+    "match": "pravopisná varianta nebo dosud nezařazená CP",
+    "ids": [],
+    "candidates": [
+      {
+        "alias": "zorwen",
+        "ids": [
+          "674e445ef478"
+        ]
+      },
+      {
+        "alias": "zogen",
+        "ids": [
+          "676aaf478db1"
+        ]
+      },
+      {
+        "alias": "soren",
+        "ids": [
+          "b8d84f9a0c0d"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zvonislad",
+    "refs": "DL",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1040,
+    "match": "přesná normalizovaná shoda",
+    "ids": [
+      "7bb63087c65f"
+    ],
+    "candidates": []
+  },
+  {
+    "name": "Zyl",
+    "refs": "HM + DD 6/02",
+    "source": "cizi_postavy_seznam_cizich_postav_ktere_se_objevily_v_modulech_a_dalsich_textech_o_asterio.txt",
+    "line": 1042,
+    "match": "zkrácené jméno; ověřit totožnost",
+    "ids": [
+      "6aa83d76cbb7"
+    ],
+    "candidates": []
+  }
+]

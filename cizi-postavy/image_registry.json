@@ -1,0 +1,643 @@
+[
+  {
+    "asset_id": "img-00",
+    "path": "obrazy/img-00.png",
+    "thumbnail": "thumbnails/image_00.jpg",
+    "name": "Alwarin Bílý",
+    "character_id": "b692c77c0db7",
+    "origin": "modul: Hlavní modul, str. 102",
+    "note": "portrét; pojmenovaný výřez a evidovaná stránka",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "ce691bf4564b468ba33fb5c1a39f197f72cde5d70d53b1705de4dfb6f354454c",
+    "dimensions": [
+      203,
+      502
+    ]
+  },
+  {
+    "asset_id": "img-01",
+    "path": "obrazy/img-01.png",
+    "thumbnail": "thumbnails/image_01.jpg",
+    "name": "Asáman",
+    "character_id": "4a738f6b3732",
+    "origin": "modul: Hlavní modul, str. 102",
+    "note": "portrét; pojmenovaný výřez a evidovaná stránka",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "d57fc7feb9b0bd6230ac17ed3c2a0c3b9cfaa975750f0bf15a7dc83375deabf2",
+    "dimensions": [
+      276,
+      292
+    ]
+  },
+  {
+    "asset_id": "img-02",
+    "path": "obrazy/img-02.png",
+    "thumbnail": "thumbnails/image_02.jpg",
+    "name": "Sava",
+    "character_id": "f4dc29b6a71a",
+    "origin": "modul: Písky proroctví",
+    "note": "portrét; pojmenovaný výřez; stránku ověřit",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "c7f5871d4600a558a7baff588162d6019fccebd972d7713e0d648025ccdd48eb",
+    "dimensions": [
+      456,
+      452
+    ]
+  },
+  {
+    "asset_id": "img-03",
+    "path": "obrazy/img-03.png",
+    "thumbnail": "thumbnails/image_03.jpg",
+    "name": "Rebenic",
+    "character_id": "441143eebc74",
+    "origin": "modul: Písky proroctví",
+    "note": "portrét; pojmenovaný výřez; stránku ověřit",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "a22045c04e00c39e77505723c3a1cdc3ff95315d3fb94239a154fec3d8bf3a74",
+    "dimensions": [
+      445,
+      407
+    ]
+  },
+  {
+    "asset_id": "img-04",
+    "path": "obrazy/img-04.png",
+    "thumbnail": "thumbnails/image_04.jpg",
+    "name": "Marantiel",
+    "character_id": "4f54544c9442",
+    "origin": "modul: Falešná apokalypsa, Čarodějův učeň, PDF str. 6",
+    "note": "portrét v dobrodružství; přiřazení dle výřezu a kontextu",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "d2af670d5354a9fe39d4e419b5cdb616650c6209c23c0c6f2425f894774f4230",
+    "dimensions": [
+      316,
+      243
+    ]
+  },
+  {
+    "asset_id": "img-05",
+    "path": "thumbnails/image_05.jpg",
+    "thumbnail": "thumbnails/image_05.jpg",
+    "name": "Khar er Kiralon (\"Démon\")",
+    "character_id": "1d71d4f832fb",
+    "origin": "archiv modulů: khar.tif",
+    "note": "portrét; jméno přímo v názvu obrazového souboru",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "f6b09157e327111cc385dc157987ad69de048c72dd159634903019c0f85a6e0e",
+    "dimensions": [
+      1462,
+      2717
+    ]
+  },
+  {
+    "asset_id": "img-06",
+    "path": "thumbnails/image_06.jpg",
+    "thumbnail": "thumbnails/image_06.jpg",
+    "name": "Ilveth (Rangwath)",
+    "character_id": "9f69320779cb",
+    "origin": "archiv modulů: ilveth.tif",
+    "note": "portrét; jméno přímo v názvu obrazového souboru",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "cae56cb60dbf9e688ea0633d72d783e42f042b99ce43e124faa8426af2826f54",
+    "dimensions": [
+      2116,
+      3307
+    ]
+  },
+  {
+    "asset_id": "img-07",
+    "path": "obrazy/img-07.jpg",
+    "thumbnail": "thumbnails/image_07.jpg",
+    "name": "Narian er Zurk",
+    "character_id": "68fb5f1ec1a4",
+    "origin": "archiv modulů: narian.jpg",
+    "note": "postava při kouzlení; jméno v názvu souboru",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "1bf741c9c750af6f71e787628600742ff8ea9cd953c09d502686817d3d9d7ae6",
+    "dimensions": [
+      1898,
+      2986
+    ]
+  },
+  {
+    "asset_id": "img-08",
+    "path": "obrazy/img-08.jpg",
+    "thumbnail": "thumbnails/image_08.jpg",
+    "name": "Lamawi",
+    "character_id": "9f4c937956bb",
+    "origin": "archiv modulů: Lamawi.jpg",
+    "note": "portrét; jméno přímo v názvu obrazového souboru",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "efba8b1e20132d5868212505119f89e3ed5c71034dc984a60f810c0af49a39da",
+    "dimensions": [
+      1996,
+      2772
+    ]
+  },
+  {
+    "asset_id": "img-09",
+    "path": "obrazy/img-09.jpg",
+    "thumbnail": "thumbnails/image_09.jpg",
+    "name": "Laj Daj (Lajda)",
+    "character_id": "736eabfd37f2",
+    "origin": "archiv modulů: Lajda.jpg",
+    "note": "portrét; pojmenovaný soubor odpovídá aliasu",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "55242f286b87c1c84849a3954740f83bdaf0e656f3c165591448646b3424a7b0",
+    "dimensions": [
+      1989,
+      2772
+    ]
+  },
+  {
+    "asset_id": "img-10",
+    "path": "obrazy/img-10.jpg",
+    "thumbnail": "thumbnails/image_10.jpg",
+    "name": "Borek Chvostovít",
+    "character_id": "eaf49f6bf52a",
+    "origin": "archiv modulů: Knez Borek.jpg",
+    "note": "pravděpodobný portrét; kněz se psem odpovídá profilu, totožnost dosud nepotvrzena",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pravděpodobná totožnost",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "cd3b48b56f9594bc06f93a8b3cb239ec4ad0d825e6c7567f2c189b970f5415e0",
+    "dimensions": [
+      2010,
+      2776
+    ]
+  },
+  {
+    "asset_id": "img-11",
+    "path": "obrazy/img-11.png",
+    "thumbnail": "thumbnails/image_11.jpg",
+    "name": "Ndangawa",
+    "character_id": "329ea1a0bc72",
+    "origin": "Patreon: Boží víkend Ndangawa I",
+    "note": "pojmenovaný propagační vizuál; původ a technika obrázku neověřeny",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "propagační vizuál",
+    "sha256": "b039e032d53a8ae8275c9c5a226fb2370c818ba62e2d1d3a3ebe2de9b30ab7d5",
+    "dimensions": [
+      940,
+      788
+    ]
+  },
+  {
+    "asset_id": "img-12",
+    "path": "obrazy/img-12.png",
+    "thumbnail": "thumbnails/image_12.jpg",
+    "name": "Ndangawa",
+    "character_id": "329ea1a0bc72",
+    "origin": "Patreon: Boží víkend Ndangawa II",
+    "note": "pojmenovaný propagační vizuál; původ a technika obrázku neověřeny",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "propagační vizuál",
+    "sha256": "5ea44e1ac0f1048885a73878017a0ed24f464364b50ddf350c25ffbb4dcc0370",
+    "dimensions": [
+      940,
+      788
+    ]
+  },
+  {
+    "asset_id": "img-13",
+    "path": "obrazy/img-13.png",
+    "thumbnail": "thumbnails/image_13.jpg",
+    "name": "Ynnar Rút",
+    "character_id": "994ef8c6f177",
+    "origin": "Patreon: Boží víkend Ynnar Rút II",
+    "note": "pojmenovaný propagační vizuál; původ a technika obrázku neověřeny",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "propagační vizuál",
+    "sha256": "43d1861520492c948eb8949f684c07dc37b5f615b8674bc1f3abe95ee642010c",
+    "dimensions": [
+      940,
+      788
+    ]
+  },
+  {
+    "asset_id": "img-16",
+    "path": "obrazy/img-16.jpg",
+    "thumbnail": "thumbnails/image_16.jpg",
+    "name": "Hazharr z Černého údolí",
+    "character_id": "a8525eba17d6",
+    "origin": "SVV: návrh Hazzhar2_lovec přízraků.jpg",
+    "note": "vzorová postava; odlišný pravopis názvu, odpovídá listům postav",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "b1c7b164df1515e2dfa0387d049f140c3fb8a843c652d15b247db7e2b4039b2c",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "img-17",
+    "path": "obrazy/img-17.jpg",
+    "thumbnail": "thumbnails/image_17.jpg",
+    "name": "Hazharr z Černého údolí",
+    "character_id": "a8525eba17d6",
+    "origin": "SVV: Hazzhar_lovec přízraků.jpg",
+    "note": "vzorová postava; odlišný pravopis názvu, odpovídá listům postav",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "6bdd2277a930e2fcd340397e3f7578e8166bed621dd9e7d6a3780c66fc18a3a3",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "img-18",
+    "path": "obrazy/img-18.jpg",
+    "thumbnail": "thumbnails/image_18.jpg",
+    "name": "Q´ellu Yuraq",
+    "character_id": "c4ea45a09980",
+    "origin": "SVV: Quellu_čaroděj.jpg",
+    "note": "vzorová postava; kresba ověřena i na první straně listů postav",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "0dfbbfe280957c9770f7553b27f7775875e8bfeb3c71064352ff38ae3f34daa5",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "img-19",
+    "path": "obrazy/img-19.jpg",
+    "thumbnail": "thumbnails/image_19.jpg",
+    "name": "Ivan \"Pantáta\" Miratič",
+    "character_id": "09f98cac2b3f",
+    "origin": "SVV: Sarindarec_Ivan Miratič.jpg",
+    "note": "pojmenovaný barevný portrét",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "ed8e3699c4e6a724ae10cee3790361f27fd4fdbe59c17bd8e7588a664b62abb5",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "img-20",
+    "path": "obrazy/img-20.jpg",
+    "thumbnail": "thumbnails/image_20.jpg",
+    "name": "Saša Krakorecká",
+    "character_id": "038e863befd5",
+    "origin": "SVV: Saša Krakorecká2_kněžka Dunril.jpg",
+    "note": "vzorová postava; kresba ověřena i na první straně listů postav",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "918c7123186664627be2251f063aba07a2aee14634fd101e5f52d513a7f78e02",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "img-21",
+    "path": "obrazy/img-21.jpg",
+    "thumbnail": "thumbnails/image_21.jpg",
+    "name": "Saša Krakorecká",
+    "character_id": "038e863befd5",
+    "origin": "SVV: Saša Krakorecká_kněžka Dunril.jpg",
+    "note": "vzorová postava; kresba ověřena i na první straně listů postav",
+    "visual_check": "obraz otevřen a zkontrolován 2026-11-18",
+    "identity_status": "pojmenovaná předloha",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "918c7123186664627be2251f063aba07a2aee14634fd101e5f52d513a7f78e02",
+    "dimensions": [
+      2480,
+      3508
+    ]
+  },
+  {
+    "asset_id": "dd-2001-02-95",
+    "path": "thumbnails/dd_2001-02_95.jpg",
+    "printed_page": 61,
+    "thumbnail": "thumbnails/dd_2001-02_95.jpg",
+    "name": "Tompo Vítámvás",
+    "character_id": "f2f3b7e874fc",
+    "origin": "Dech draka 2/2001, tištěná str. 61, PDF str. 95",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "eb30c3e726e7c5f8f18bf70fa5884231a0a31d2ef79e8b0b83ab5c036ae8e3b1",
+    "dimensions": [
+      372,
+      477
+    ],
+    "preview_crop_normalized": [
+      0.2,
+      0.08,
+      0.8,
+      0.61
+    ]
+  },
+  {
+    "asset_id": "dd-2001-02-97",
+    "path": "thumbnails/dd_2001-02_97.jpg",
+    "printed_page": 63,
+    "thumbnail": "thumbnails/dd_2001-02_97.jpg",
+    "name": "Drubalt Bílý ohon",
+    "character_id": "32131801ae69",
+    "origin": "Dech draka 2/2001, tištěná str. 63, PDF str. 97",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "eb30c3e726e7c5f8f18bf70fa5884231a0a31d2ef79e8b0b83ab5c036ae8e3b1",
+    "dimensions": [
+      328,
+      414
+    ],
+    "preview_crop_normalized": [
+      0.23,
+      0.12,
+      0.75,
+      0.58
+    ]
+  },
+  {
+    "asset_id": "dd-2001-03-96",
+    "path": "thumbnails/dd_2001-03_96.jpg",
+    "printed_page": 62,
+    "thumbnail": "thumbnails/dd_2001-03_96.jpg",
+    "name": "Tiago Nabuloš",
+    "character_id": "af0bcfe98a0a",
+    "origin": "Dech draka 3/2001, tištěná str. 62, PDF str. 96",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "1d6ae315e07b03e040491c7449e0cceee5e97f77252ee34a9eb10801a7b9c9fc",
+    "dimensions": [
+      277,
+      265
+    ],
+    "preview_crop_normalized": [
+      0.52,
+      0.65,
+      0.95,
+      0.945
+    ]
+  },
+  {
+    "asset_id": "dd-2001-05-91",
+    "path": "thumbnails/dd_2001-05_91.jpg",
+    "printed_page": 57,
+    "thumbnail": "thumbnails/dd_2001-05_91.jpg",
+    "name": "Katjak Ohnivlas",
+    "character_id": "9ff746cdd476",
+    "origin": "Dech draka 5/2001, tištěná str. 57, PDF str. 91",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "132536023aa27fc013aabe6fad9682d3375faaa60f783311e9a916ad743232e3",
+    "dimensions": [
+      244,
+      324
+    ],
+    "preview_crop_normalized": [
+      0.52,
+      0.1,
+      0.91,
+      0.46
+    ]
+  },
+  {
+    "asset_id": "dd-2002-01-79",
+    "path": "thumbnails/dd_2002-01_79.jpg",
+    "printed_page": 45,
+    "thumbnail": "thumbnails/dd_2002-01_79.jpg",
+    "name": "Sagjidara I.",
+    "character_id": "16a52b468c38",
+    "origin": "Dech draka 1/2002, tištěná str. 45, PDF str. 79",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "7ce9bff8f98c292c7d3df2cb0e8ab10b86a2e46562ce7efebe075bb93c92e395",
+    "dimensions": [
+      257,
+      423
+    ],
+    "preview_crop_normalized": [
+      0.47,
+      0.1,
+      0.88,
+      0.57
+    ]
+  },
+  {
+    "asset_id": "dd-2002-01-82",
+    "path": "thumbnails/dd_2002-01_82.jpg",
+    "printed_page": 48,
+    "thumbnail": "thumbnails/dd_2002-01_82.jpg",
+    "name": "Wanda Krakorična Rzedzianská",
+    "character_id": "ef59506b3c57",
+    "origin": "Dech draka 1/2002, tištěná str. 48, PDF str. 82",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "7ce9bff8f98c292c7d3df2cb0e8ab10b86a2e46562ce7efebe075bb93c92e395",
+    "dimensions": [
+      239,
+      378
+    ],
+    "preview_crop_normalized": [
+      0.14,
+      0.51,
+      0.51,
+      0.93
+    ]
+  },
+  {
+    "asset_id": "dd-2004-05-96",
+    "path": "thumbnails/dd_2004-05_96.jpg",
+    "printed_page": 60,
+    "thumbnail": "thumbnails/dd_2004-05_96.jpg",
+    "name": "Wanda ze Šerova",
+    "character_id": "590e24860a98",
+    "origin": "Dech draka 5/2004, tištěná str. 60, PDF str. 96",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "9d425b1f35fb57a933415d10368b82db82bb28f07b4f04bb43db7b5667ba273d",
+    "dimensions": [
+      295,
+      378
+    ],
+    "preview_crop_normalized": [
+      0.49,
+      0.48,
+      0.95,
+      0.9
+    ]
+  },
+  {
+    "asset_id": "dd-2004-06-87",
+    "path": "thumbnails/dd_2004-06_87.jpg",
+    "printed_page": 53,
+    "thumbnail": "thumbnails/dd_2004-06_87.jpg",
+    "name": "Armel Tirgont (\"Stín\")",
+    "character_id": "a81e50ee3e80",
+    "origin": "Dech draka 6/2004, tištěná str. 53, PDF str. 87",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "f351a537e6213e2afdd84d1bc05dc2abf0befa18b1eb10788c2878f24cd55143",
+    "dimensions": [
+      188,
+      369
+    ],
+    "preview_crop_normalized": [
+      0.59,
+      0.13,
+      0.89,
+      0.54
+    ]
+  },
+  {
+    "asset_id": "dd-2005-01-88",
+    "path": "thumbnails/dd_2005-01_88.jpg",
+    "printed_page": 54,
+    "thumbnail": "thumbnails/dd_2005-01_88.jpg",
+    "name": "Arxela (Linthie Šťastná)",
+    "character_id": "86d9429454f1",
+    "origin": "Dech draka 1/2005, tištěná str. 54, PDF str. 88",
+    "note": "Portrét přímo v profilu postavy; původní časopisecká stránka vizuálně ověřena. Náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "df38b0d12169ce0afd0e3b164d020f63e436c0ba4b3d4b5e0118bb7ef49c3df7",
+    "dimensions": [
+      173,
+      504
+    ],
+    "preview_crop_normalized": [
+      0.67,
+      0.13,
+      0.94,
+      0.69
+    ]
+  },
+  {
+    "asset_id": "dd-2001-05-89",
+    "path": "thumbnails/dd_2001-05_89.jpg",
+    "printed_page": 55,
+    "thumbnail": "thumbnails/dd_2001-05_89.jpg",
+    "name": "Pai Čchu-čchan (\"Pančucha\")",
+    "character_id": "db9fee4eb1cd",
+    "origin": "Dech draka 5/2001, tištěná str. 55, PDF str. 89",
+    "note": "Portrét v příslušném článku vizuálně ověřen; náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "132536023aa27fc013aabe6fad9682d3375faaa60f783311e9a916ad743232e3",
+    "dimensions": [
+      341,
+      330
+    ],
+    "preview_crop_normalized": [
+      0.4,
+      0.13,
+      0.89,
+      0.46
+    ]
+  },
+  {
+    "asset_id": "dd-2001-03-94",
+    "path": "thumbnails/dd_2001-03_94.jpg",
+    "printed_page": 60,
+    "thumbnail": "thumbnails/dd_2001-03_94.jpg",
+    "name": "Matyš Bodrych",
+    "character_id": "745b0bca7131",
+    "origin": "Dech draka 3/2001, tištěná str. 60, PDF str. 94",
+    "note": "Portrét v příslušném článku vizuálně ověřen; náhled je výřez stránky.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním článku",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "1d6ae315e07b03e040491c7449e0cceee5e97f77252ee34a9eb10801a7b9c9fc",
+    "dimensions": [
+      314,
+      300
+    ],
+    "preview_crop_normalized": [
+      0.5,
+      0.65,
+      0.94,
+      0.95
+    ]
+  },
+  {
+    "asset_id": "walden-ct-d17",
+    "path": "obrazy/walden-ct-d17.jpg",
+    "thumbnail": "thumbnails/walden_kral1.jpg",
+    "name": "Walden er Gwendor",
+    "character_id": "ffcf8edec92c",
+    "origin": "Čas temna – dodatky, str. 16–17; portrét na str. 17",
+    "source_pdf_page": 17,
+    "note": "Soubor kral1.jpg vizuálně odpovídá portrétu v pokračování Waldenova profilu na str. 17. Dobové vyobrazení z Času temna.",
+    "visual_check": "2026-11-18",
+    "identity_status": "portrét v původním modulu",
+    "kind": "portrét / ilustrace postavy",
+    "sha256": "c91ca8b58312bc901d51a7862ee70f4e4899803caf862229c71d3132d816f5ea",
+    "dimensions": [
+      900,
+      1280
+    ]
+  },
+  {
+    "asset_id": "walden-mj-400e65d4",
+    "path": "obrazy/walden-mj-400e65d4.png",
+    "thumbnail": "thumbnails/walden_midjourney_2023.jpg",
+    "name": "Walden er Gwendor",
+    "character_id": "ffcf8edec92c",
+    "origin": "Rauksul, autorská Midjourney vizualizace, 5. 9. 2023",
+    "original_filename": "rauksul_king_in_the_style_of_dark_gray_and_red_dripping_paint_h_400e65d4-d835-4ddd-8100-2d97aaab6548.png",
+    "note": "Autorem potvrzená obrazová předloha. Výtvarná interpretace nemění automaticky textový popis ani chronologii modulu.",
+    "visual_check": "2026-11-18",
+    "identity_status": "uživatelem potvrzená autorská vizualizace",
+    "kind": "Midjourney ilustrace postavy",
+    "user_confirmed": true,
+    "sha256": "037d9f9fde635d8a017b457ae05ef89724c7a2a09bcfdbe3e8e27830a6dd50a7",
+    "dimensions": [
+      1024,
+      1024
+    ]
+  }
+]
