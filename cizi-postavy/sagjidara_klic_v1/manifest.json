@@ -1,6 +1,8 @@
 {
   "tool": "built-in image_gen",
   "date": "2026-11-18",
+  "image_revision": 2,
+  "detail": "Brigantina Mořská kočka nahrazuje druhý portrét; bílé praporce s modrým drakem nad rudou kočkou podle článku, konstrukce lodi je výtvarná interpretace.",
   "name": "Sagjidara I.",
   "period": "Profil po nástupu na trůn a narození Siovala; starší námořnický vzhled jako obrazová předloha.",
   "text_sources": [
@@ -43,7 +45,7 @@
       "pdf": "Sagjidara_gwent_2xA4.pdf",
       "spread_pdf": "Sagjidara_gwent_dvoustrana.pdf",
       "preview": "Sagjidara_gwent_nahled.jpg",
-      "image_sha256": "852624c7abb34cfb099e317426bddef53899b9775e5742c63d9bb5e1ca44d1f1",
+      "image_sha256": "be25d6b4a29b8664b29eea2b25da744b613edc2b627a39ab113a9daa2f47afb4",
       "size": [
         1491,
         1055
@@ -56,7 +58,7 @@
       "pdf": "Sagjidara_akvarel_2xA4.pdf",
       "spread_pdf": "Sagjidara_akvarel_dvoustrana.pdf",
       "preview": "Sagjidara_akvarel_nahled.jpg",
-      "image_sha256": "a0edf3e5142461f9859d10de7d5282bcca840484dd0898af145594677ed71426",
+      "image_sha256": "a4d7e02995ebe331e4366b56c13d7b9f6556c8c87a48f088cb364a2ea0b74387",
       "size": [
         1491,
         1055
@@ -69,7 +71,7 @@
       "pdf": "Sagjidara_kniha_2xA4.pdf",
       "spread_pdf": "Sagjidara_kniha_dvoustrana.pdf",
       "preview": "Sagjidara_kniha_nahled.jpg",
-      "image_sha256": "b09e7408f32d7e62236412946005e0b7b14da70c1dd50880011ce871b8f9f02f",
+      "image_sha256": "39336d49c91d5d775556ada34019c9f1cb57933fec95604153e4a2b208e3f3a1",
       "size": [
         1492,
         1054

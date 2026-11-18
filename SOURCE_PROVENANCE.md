@@ -70,3 +70,14 @@ sňatkový plán není označen za dohodu, podezřelí z atentátů za prokázan
 ani Nerúviel za mrtvou. Původní ilustrace i staré sazební zkoušky zůstávají.
 Veřejný manifest obsahuje přesná místa pramenů a znění aktualizované karty;
 soukromé archivní cesty se nepublikují.
+
+
+## Sagjidara — detail Mořské kočky, 18. 11. 2026
+
+Ve třech obrazových variantách byl malý opakovaný portrét nahrazen celkovým
+pohledem na Mořskou kočku. Typ brigantiny a bílá vlajka s letícím modrým
+drakem nad běžící rudou kočkou jsou doložené na s. 1 článku Sagjidara
+(Dech draka 1/2002). Konstrukce, velikost a barvy trupu jsou výtvarnou
+interpretací. Úpravu provedl built-in imagegen s původními obrazy jako
+předlohami; hlavní postava a text profilu byly zachovány. Aktualizovány
+jsou všechny tři náhledy, obrazy bez textu, dvoustrany a PDF po dvou A4.
