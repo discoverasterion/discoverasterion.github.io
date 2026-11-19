@@ -1,0 +1,104 @@
+{
+  "id": "farwal",
+  "prefix": "Farwal",
+  "name": "Far´wal’ngo",
+  "short_name": "Far´wal",
+  "subtitle": "Pouštní elfí chodec · hledač Proroctví",
+  "paragraphs": [
+    1380,
+    1384,
+    1385,
+    1388,
+    1389,
+    1392,
+    1393,
+    1396,
+    1397,
+    1400,
+    1404
+  ],
+  "visual_reference": "elfí chodec.jpg — původní kresba přiřazená podle listu postav a shodného vybavení",
+  "detail": "Stříbrná maska bez magických sklíček",
+  "blocks": [
+    [
+      "Na první pohled",
+      "Šlachovitý, metr osmdesát vysoký pouštní elf s černou pletí, jemnými rysy, krátce střiženými bílými vlasy a téměř bílýma očima. Černé šaty chrání kroužková zbroj z athorského stříbra; prostý hnědý plášť zakrývá zbytek výbavy. Vysoké holínky a pobité kožené rukavice nosí jako člověk zvyklý na dlouhé cesty. Do boje nebo kvůli utajení si nasazuje celoobličejovou masku."
+    ],
+    [
+      "Svět bez barev",
+      "Od narození vidí pouze odstíny šedi, jinak má zrak mimořádně ostrý. Je uzavřený, nepřístupný a v rozhovoru snadno působí povýšeně. Než aby dlouze vyjednával, jedná rázně a někdy nemilosrdně. Ve volných chvílích čistí, olejuje či brousí zbraně. Za nedůvěrou k lidem stojí opakované křivdy, včetně zrady spolubojovníků během války o Rilond."
+    ],
+    [
+      "Cesta za Proroctvím",
+      "Narodil se roku 836 v Rychlých Dunách. Děd, pouštní druid, mu vyprávěl o ztracených Proroctvích; Far´wal si umínil, že alespoň jedno pomůže získat. Při pátrání v albirejské univerzitní knihovně poznal Sili. Té jako jediné osobě mimo svůj rodný kraj plně důvěřuje. Po společné výpravě pro rod Butrymů se oba rozhodli zamířit na jih."
+    ],
+    [
+      "Nedokončená maska",
+      "Masku z athorského stříbra zdobenou elfími runami nalezl v Lese černých bříz. Chybějí jí magická sklíčka do očních otvorů, po kterých dál pátrá. Provázejí ho také lintirový chodcův meč a rodinný dlouhý luk z ebenového dřeva, který dostal od děda."
+    ]
+  ],
+  "author_correction": "Autor 18. 11. 2026 v autoritativním QA chatu potvrdil: Far´wal jako pouštní elf má černou kůži. Platí pro všechny nové ilustrace i popis.",
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "period": "Výchozí stav při nalodění na Mrtvého krakena, rok 865 k. l.",
+  "text_source": {
+    "file": "Krvavý příliv_1.část tažení_KR_M4_noApp.docx",
+    "section": "B.6 Vzorové postavy ke hraní",
+    "paragraphs": [
+      1380,
+      1384,
+      1385,
+      1388,
+      1389,
+      1392,
+      1393,
+      1396,
+      1397,
+      1400,
+      1404
+    ]
+  },
+  "editorial_policy": "Redakční zkrácení pro hráčské karty. Bez číselných pravidlových statistik a bez předem určených výsledků dobrodružství. Znalosti postavy jsou oddělené od tajemství vypravěče; zejména u Sili není odhalena skutečná role jejího mistra. Nové prostředí, přesné pózy a provedení předmětů jsou výtvarné interpretace, nikoli další pramen lore.",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Farwal_gwent_original.png",
+      "pdf": "Farwal_gwent_2xA4.pdf",
+      "spread_pdf": "Farwal_gwent_dvoustrana.pdf",
+      "preview": "Farwal_gwent_nahled.jpg",
+      "image_sha256": "812a159b423463b9cdec43e958cf53b4329a0ba08678ff2cf3a6cc68974359b7",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Farwal_akvarel_original.png",
+      "pdf": "Farwal_akvarel_2xA4.pdf",
+      "spread_pdf": "Farwal_akvarel_dvoustrana.pdf",
+      "preview": "Farwal_akvarel_nahled.jpg",
+      "image_sha256": "4f82e62011583749929871049dc3b3f643578daeac63b3ada57d44fac9753a02",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Farwal_kniha_original.png",
+      "pdf": "Farwal_kniha_2xA4.pdf",
+      "spread_pdf": "Farwal_kniha_dvoustrana.pdf",
+      "preview": "Farwal_kniha_nahled.jpg",
+      "image_sha256": "05df78655a36b7164a884a6913662ba3a66578bc016f7ad11f343dd870f284b9",
+      "size": [
+        1491,
+        1055
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "aart",
+  "prefix": "Aart",
+  "name": "Aart Koen",
+  "short_name": "Aart",
+  "subtitle": "Provazochodec a vrhač nožů · bývalý pirát",
+  "paragraphs": [
+    1434,
+    1438,
+    1439,
+    1442,
+    1444,
+    1445,
+    1446,
+    1447,
+    1450,
+    1453,
+    1498
+  ],
+  "visual_reference": "Nová interpretace podle vzhledu v původním autorském DOCX; samostatný pojmenovaný portrét zde nebyl doložen.",
+  "detail": "Označené karty a vrhací dýky",
+  "blocks": [
+    [
+      "Na první pohled",
+      "Atletický, metr sedmdesát vysoký muž s pečlivě oholenou tváří a hustými havraními vlasy zastřiženými na mikádo. Pravé oko a jizvu u kořene nosu kryje páska. V uších má zlaté kroužky, na levé straně krku malé tetování žraloka. Na lodi nosí široké kalhoty, opasek s dýkami a koženou vestu na holém těle. Praktické oblečení musí podle něj také dobře vypadat."
+    ],
+    [
+      "Úsměv jako maska",
+      "Rychle zapadá do společnosti, vtipkuje a rád přitahuje pozornost. O samotě se však vracejí výčitky za činy z pirátských let. Snažil se je zahánět saviakem a vypěstoval si závislost, které se chce během plavby zbavit. Alkohol nepije; potřebuje zůstat ve střehu a mít možnost uniknout. Důvěru rozdává mnohem zdrženlivěji, než naznačuje jeho úsměv."
+    ],
+    [
+      "Znovu začít",
+      "Sirotek ze sarindarských ulic se kdysi vypracoval na krupiéra v Sarapisově velkoherně. Po útěku strávil tři roky mezi piráty Postrachu Úžin. V Erinu si vybudoval nový život po boku tanečnice Jaruši, s níž vystupoval jako vrhač nožů. Když ho dostihla minulost, Jaruša zemřela a Aart přišel o oko. Léčení jej stálo všechno jmění."
+    ],
+    [
+      "Páska a cesta z Erinu",
+      "Nekromant mu ztracené oko nahradil funkčním implantátem. Je zelený, zatímco původní oko je hnědé; proto ho Aart zakrývá. Není na toto oko slepý. Před vrahem najatým Marylou Šílenou chce uniknout na Mrtvém krakenovi a službou na lodi si vydělat na další začátek. Vrhací dýky, akrobacie a označené karty připomínají jeho někdejší obživu."
+    ]
+  ],
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "period": "Výchozí stav při nalodění na Mrtvého krakena, rok 865 k. l.",
+  "text_source": {
+    "file": "Krvavý příliv_1.část tažení_KR_M4_noApp.docx",
+    "section": "B.6 Vzorové postavy ke hraní",
+    "paragraphs": [
+      1434,
+      1438,
+      1439,
+      1442,
+      1444,
+      1445,
+      1446,
+      1447,
+      1450,
+      1453,
+      1498
+    ]
+  },
+  "editorial_policy": "Redakční zkrácení pro hráčské karty. Bez číselných pravidlových statistik a bez předem určených výsledků dobrodružství. Znalosti postavy jsou oddělené od tajemství vypravěče; zejména u Sili není odhalena skutečná role jejího mistra. Nové prostředí, přesné pózy a provedení předmětů jsou výtvarné interpretace, nikoli další pramen lore.",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Aart_gwent_original.png",
+      "pdf": "Aart_gwent_2xA4.pdf",
+      "spread_pdf": "Aart_gwent_dvoustrana.pdf",
+      "preview": "Aart_gwent_nahled.jpg",
+      "image_sha256": "25a1b36623e9491a3469bfaaa7e3c84ed2ba8052b8935a9fe6caf0ef95cae53f",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Aart_akvarel_original.png",
+      "pdf": "Aart_akvarel_2xA4.pdf",
+      "spread_pdf": "Aart_akvarel_dvoustrana.pdf",
+      "preview": "Aart_akvarel_nahled.jpg",
+      "image_sha256": "b716a377be40b18ad1fbb92dd81e669946e3650858e75c3bc23ed50be898632e",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Aart_kniha_original.png",
+      "pdf": "Aart_kniha_2xA4.pdf",
+      "spread_pdf": "Aart_kniha_dvoustrana.pdf",
+      "preview": "Aart_kniha_nahled.jpg",
+      "image_sha256": "a777a245af42755cd9017d14043a18256438a2e06b1e146e04c44a019870b528",
+      "size": [
+        1491,
+        1055
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

@@ -1,0 +1,620 @@
+{
+  "date": "2026-11-19",
+  "characters": 8,
+  "versions": 26,
+  "cards": {
+    "walden": {
+      "folder": "walden_klic_v2",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "sagjidara": {
+      "folder": "sagjidara_hotove",
+      "styles": [
+        "gwent",
+        "kniha"
+      ]
+    },
+    "hazharr": {
+      "folder": "krvavy_priliv/hazharr",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "sili": {
+      "folder": "krvavy_priliv/sili",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "farwal": {
+      "folder": "krvavy_priliv/farwal",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "aart": {
+      "folder": "krvavy_priliv/aart",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "quellu": {
+      "folder": "krvavy_priliv/quellu",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "sasa": {
+      "folder": "krvavy_priliv/sasa",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    },
+    "sasa-plus": {
+      "folder": "sasa_plus",
+      "styles": [
+        "gwent",
+        "akvarel",
+        "kniha"
+      ]
+    }
+  },
+  "files": [
+    {
+      "path": "walden_klic_v2/Walden_gwent_original.png",
+      "sha256": "36031480a3aac8e70be58b07c8770aa377a7decf880da677f8b60f0a12da944d",
+      "bytes": 2513619
+    },
+    {
+      "path": "walden_klic_v2/Walden_gwent_2xA4.pdf",
+      "sha256": "7f0fb33bf8fdf56c493f27d60be990c0532ddeda2c9c90b9cf91b71f805f6f8e",
+      "bytes": 4357862
+    },
+    {
+      "path": "walden_klic_v2/Walden_gwent_dvoustrana.pdf",
+      "sha256": "b87a808bea262164cda879f4efa9602b1f335f7c2b1512669ad0a454059ddac5",
+      "bytes": 4357496
+    },
+    {
+      "path": "walden_klic_v2/Walden_gwent_nahled.jpg",
+      "sha256": "6b3bd2bcefefbe342850fedee7be86152c9becbb2c3ee6a44800010fbbb321fb",
+      "bytes": 332382
+    },
+    {
+      "path": "walden_klic_v2/Walden_akvarel_original.png",
+      "sha256": "460421a19ec011faf29dd48d0e41a6f0c652ab68682c32c35bc71db400e7a165",
+      "bytes": 2778015
+    },
+    {
+      "path": "walden_klic_v2/Walden_akvarel_2xA4.pdf",
+      "sha256": "3b84761c5f3c2a7c996ad7e4122b915e318cad799a0f0c5c544b9fea715c39f6",
+      "bytes": 4705418
+    },
+    {
+      "path": "walden_klic_v2/Walden_akvarel_dvoustrana.pdf",
+      "sha256": "55123602562b048e8b86fe07aaa3b91d13577f3b021f546d86a0e7ebcb7cfaa4",
+      "bytes": 4705052
+    },
+    {
+      "path": "walden_klic_v2/Walden_akvarel_nahled.jpg",
+      "sha256": "62ba80f883f3eade2754cbde31d858a667e490e1ebfa5c9f4bf28c45a7756be5",
+      "bytes": 367145
+    },
+    {
+      "path": "walden_klic_v2/Walden_kniha_original.png",
+      "sha256": "975fc8dd91bf8a48e028bf72b9cc13e6e63e1b6057e1d3a8d15a9aea97dc513a",
+      "bytes": 2822996
+    },
+    {
+      "path": "walden_klic_v2/Walden_kniha_2xA4.pdf",
+      "sha256": "a1b0652763a0156a197056a6c79dd643fd6dd3d3c08ab5a0c15c01abeeb9b85f",
+      "bytes": 4619300
+    },
+    {
+      "path": "walden_klic_v2/Walden_kniha_dvoustrana.pdf",
+      "sha256": "477fe79b195250d3eb9a718574f541f5d2d8ff31090bdbeb61591eb55bae0c53",
+      "bytes": 4618952
+    },
+    {
+      "path": "walden_klic_v2/Walden_kniha_nahled.jpg",
+      "sha256": "c5f3f4255f14b49e16c9d49191da45b53e592374eeb7e88a267a863f3001580b",
+      "bytes": 371062
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_gwent_original.png",
+      "sha256": "6b84ada2f2a291ded0b4519f4cc6ab0425d0752c6a4dffd452cc712e3592ad16",
+      "bytes": 2202061
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_gwent_2xA4.pdf",
+      "sha256": "497eb94e14375739dae5962df4fcfc0e0194412997b1d6cf3738777191627bf8",
+      "bytes": 4386996
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_gwent_dvoustrana.pdf",
+      "sha256": "760e653df0f1598112c180200654cbd6966b36628aeae012489399eb4e9996bb",
+      "bytes": 4386648
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_gwent_nahled.jpg",
+      "sha256": "90c272fce3b5fee1b2a9b4f0110da4dd88fcdf3ec3c3952439bce03727820444",
+      "bytes": 324824
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_kniha_original.png",
+      "sha256": "57183717715c8e29f0d79661d988093e514f4622d77fdf9ee7b4223232255da0",
+      "bytes": 2181623
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_kniha_2xA4.pdf",
+      "sha256": "0889ebb4f69b87b5678b59f99342ebc51e0e0d1fff09655927f43a7188ee4b89",
+      "bytes": 4293510
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_kniha_dvoustrana.pdf",
+      "sha256": "7d45f25f4df6c922c8f26a89c5c347f53934be6a0ffaa6446723bb8ae83d4f07",
+      "bytes": 4293159
+    },
+    {
+      "path": "sagjidara_hotove/Sagjidara_kniha_nahled.jpg",
+      "sha256": "4e7f3cb6c99796fa838bb07b2795119c44f6d278d3c474d47d570363c0bd4d7b",
+      "bytes": 308545
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_gwent_original.png",
+      "sha256": "fdc509d27d2104c4455de5192155a319f9ab97b414079c8ec4c17d6f063f479d",
+      "bytes": 2226867
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_gwent_2xA4.pdf",
+      "sha256": "5b6c6b0fd84020bdbff002be26bebc51aca8c1d92ee0d72a4be2839d59d257a5",
+      "bytes": 4156784
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_gwent_dvoustrana.pdf",
+      "sha256": "26d91aed4db53b46c76afc683c945c2b6ff920647c1ba5f46453dc9089b058f6",
+      "bytes": 4156397
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_gwent_nahled.jpg",
+      "sha256": "07d7f204e7e5551c15417a0b6e308838e122184817f8fe166c83e4d84a5bce11",
+      "bytes": 305891
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_akvarel_original.png",
+      "sha256": "4dc7ca457860a177993c976cfaad9410acea8a03f86e2703680c17004a11c398",
+      "bytes": 2657451
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_akvarel_2xA4.pdf",
+      "sha256": "000839d3f4fe4db49eddd5ffd6555425b0aae350f38f66cd2a225774bbbe0043",
+      "bytes": 4870749
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_akvarel_dvoustrana.pdf",
+      "sha256": "d04fbbb61eb2d75405061e0af50269578b3295ad24610bd5be1f9d640ca9133c",
+      "bytes": 4870362
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_akvarel_nahled.jpg",
+      "sha256": "5a30a37984f47d83960dcc42a231b723ba64b5a0122756fb72a185bbead21ecb",
+      "bytes": 375008
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_kniha_original.png",
+      "sha256": "4cd0cf865912b2609ce792105887b928f0b75b5961ac9917d0433f97aff0c7d9",
+      "bytes": 2700227
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_kniha_2xA4.pdf",
+      "sha256": "41ed04b161d9d544eda844f2543a3cd431349bd25520adfdc7049ead46bb684d",
+      "bytes": 4691907
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_kniha_dvoustrana.pdf",
+      "sha256": "c387b3c928d3e8620016cf0e8b26a718a9b8a24e8ced40fb6742e19fe55880a9",
+      "bytes": 4691548
+    },
+    {
+      "path": "krvavy_priliv/hazharr/Hazharr_kniha_nahled.jpg",
+      "sha256": "b11d65045792281e24fc9a2cb4cd33747f5c18b4123dae6bfe682db91f520733",
+      "bytes": 363053
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_gwent_original.png",
+      "sha256": "e074e232452116debddf83e2ec7243bf080d3b068abb966237d427dd63e3066b",
+      "bytes": 2373721
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_gwent_2xA4.pdf",
+      "sha256": "dfac357da6f689c281d8be81b2ee7df11cd44268011d6f797aeea5866a49dacf",
+      "bytes": 4218870
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_gwent_dvoustrana.pdf",
+      "sha256": "0ce4f016dd99fc500cf7e4ee9f43ac447fe9e0df597c6f7f3150355db8578d2c",
+      "bytes": 4218483
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_gwent_nahled.jpg",
+      "sha256": "bbe71b4cd7ed3c86bd64a64e421fe49eafdc85120643645fd2dadc7bf71c682d",
+      "bytes": 330115
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_akvarel_original.png",
+      "sha256": "eea472dd4fd76356b9c15c3dd4ab9a2652359d6362f354192a9674ed340042db",
+      "bytes": 2751001
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_akvarel_2xA4.pdf",
+      "sha256": "45f6245d6684e2cf3a02bca5ad9aea56d072a17d4298e5b99a37cb19f178554d",
+      "bytes": 5004355
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_akvarel_dvoustrana.pdf",
+      "sha256": "b2fdb642fee03d8b0a348d5dc247f2d6ce645a1add09f86326f7ac9c831bfaa0",
+      "bytes": 5004014
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_akvarel_nahled.jpg",
+      "sha256": "657260bf65a73c1ee40527aa20aa2bd0b35cceb9a1abea7b92a08fd7bbfd50ae",
+      "bytes": 392261
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_kniha_original.png",
+      "sha256": "c2a2607dbec4a3e9e38459be886736566153b679f30ead4e2d433df2f1931e18",
+      "bytes": 2725837
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_kniha_2xA4.pdf",
+      "sha256": "8a7c3670cddde454ced031c08f70269ecd1c068c66f20445b3c49e2177f40833",
+      "bytes": 4742601
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_kniha_dvoustrana.pdf",
+      "sha256": "fb85630232033e33ae0eb34fce5ad59f3b654e6e783c0cae4c245d71df724559",
+      "bytes": 4742222
+    },
+    {
+      "path": "krvavy_priliv/sili/Sili_kniha_nahled.jpg",
+      "sha256": "33100c3c7c572a20a576d5185558636dfc47059fb85c0404bd5377b3b1a2eeb8",
+      "bytes": 371835
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_gwent_original.png",
+      "sha256": "812a159b423463b9cdec43e958cf53b4329a0ba08678ff2cf3a6cc68974359b7",
+      "bytes": 2284601
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_gwent_2xA4.pdf",
+      "sha256": "0f44e1d6755fe7ed94f9e996807164d5df811103b560bd0ae209c59e5df36954",
+      "bytes": 4251872
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_gwent_dvoustrana.pdf",
+      "sha256": "cdbfaab48ef0727e5664dfb09a7dfa346754f4c2e51a30add1589260927e3149",
+      "bytes": 4251484
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_gwent_nahled.jpg",
+      "sha256": "3b17fffc40130536f9aa4461b5dd7b8a7ff1d5de17ba5eb6610bc6f7cbf07f08",
+      "bytes": 312205
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_akvarel_original.png",
+      "sha256": "4f82e62011583749929871049dc3b3f643578daeac63b3ada57d44fac9753a02",
+      "bytes": 2312420
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_akvarel_2xA4.pdf",
+      "sha256": "2ace624e9d5a55222ce3ea2544b57fb03da2c20226f0e4270e3b4d29e774d2ee",
+      "bytes": 4800294
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_akvarel_dvoustrana.pdf",
+      "sha256": "8ab1b9283b436a1eefc3a50ad6d91c4b2b50e4ff6095674d49be5647b9b93586",
+      "bytes": 4799959
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_akvarel_nahled.jpg",
+      "sha256": "64b4032efd13e581bb280e0285d566e229d488da5defbdf27a904787045d4af6",
+      "bytes": 327405
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_kniha_original.png",
+      "sha256": "05df78655a36b7164a884a6913662ba3a66578bc016f7ad11f343dd870f284b9",
+      "bytes": 2441616
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_kniha_2xA4.pdf",
+      "sha256": "88c52461da03ed43fca8da656c8a6b2b8a830a77b1c8ad898d1d0b43fb8cdb7b",
+      "bytes": 4644121
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_kniha_dvoustrana.pdf",
+      "sha256": "adf48a5e20f0c3190514ba39cb51bdbbcb076ba17981c3ca2ff5736a2ab3956b",
+      "bytes": 4643743
+    },
+    {
+      "path": "krvavy_priliv/farwal/Farwal_kniha_nahled.jpg",
+      "sha256": "1f0d10b5271ddc69cda8e57c95310a35c05a1bcf7f818272c11d5d01042ac71c",
+      "bytes": 338080
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_gwent_original.png",
+      "sha256": "25a1b36623e9491a3469bfaaa7e3c84ed2ba8052b8935a9fe6caf0ef95cae53f",
+      "bytes": 2276686
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_gwent_2xA4.pdf",
+      "sha256": "b02dcb273a051dc925fbe9952e358f17097d492db3c61bccde07d43269766a31",
+      "bytes": 4314340
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_gwent_dvoustrana.pdf",
+      "sha256": "15156b99ed66a5771ab261efa76c9146bdb2ecbdf5754bfbb1e7baf1529afeca",
+      "bytes": 4313965
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_gwent_nahled.jpg",
+      "sha256": "21afe56f6443ffbef30820f4c55a416179c53ecb487036a41141394f39e1ae9f",
+      "bytes": 317485
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_akvarel_original.png",
+      "sha256": "b716a377be40b18ad1fbb92dd81e669946e3650858e75c3bc23ed50be898632e",
+      "bytes": 2801512
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_akvarel_2xA4.pdf",
+      "sha256": "f1a07b4ee914f591e6ef70626707a7d86dfa4fa31e3585bb44044536c5748ebd",
+      "bytes": 5089951
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_akvarel_dvoustrana.pdf",
+      "sha256": "6984742df59fecacd002c163612b309940aa54d3d2f57122f1b53006fc5a3e88",
+      "bytes": 5089616
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_akvarel_nahled.jpg",
+      "sha256": "7b7e747bacae4c5bb759fc80d5d40ca37d6527a8d95b6f8545a6fa5b47586cd0",
+      "bytes": 392309
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_kniha_original.png",
+      "sha256": "a777a245af42755cd9017d14043a18256438a2e06b1e146e04c44a019870b528",
+      "bytes": 2705127
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_kniha_2xA4.pdf",
+      "sha256": "54e60890e2667777dbdb96fe2d9eb47078790c397898472bf4a143e5b7d074e3",
+      "bytes": 4723556
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_kniha_dvoustrana.pdf",
+      "sha256": "9b44dcd811d75bce1308da480d92c1865dbebb1dcce261ed7f1f53e2da86eff7",
+      "bytes": 4723177
+    },
+    {
+      "path": "krvavy_priliv/aart/Aart_kniha_nahled.jpg",
+      "sha256": "bfaaf894a05e31ee78544ede58c1ec7eb434b09a600c4e82305955cada102d4b",
+      "bytes": 360341
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_gwent_original.png",
+      "sha256": "98669be217d26a78ccefa873fa0941067808dafcf8c6461674dc652469de76f7",
+      "bytes": 2197624
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_gwent_2xA4.pdf",
+      "sha256": "aaa5a1002854d670f2609520df1c34c9649092d9d87af90e7c18f74dff202627",
+      "bytes": 4320250
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_gwent_dvoustrana.pdf",
+      "sha256": "cf051874c1d4bd586769fb492e47dd18002f5ce21815648a10c8c6f891302d22",
+      "bytes": 4319837
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_gwent_nahled.jpg",
+      "sha256": "ac205c91c804d038fc0a22b63306554853759a0086abc08c46341e2d4c13b33d",
+      "bytes": 305668
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_akvarel_original.png",
+      "sha256": "25d394afcee7cb5530cd4631cb1b76be54ceb0ae22fc94cedc422137b866f000",
+      "bytes": 2483135
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_akvarel_2xA4.pdf",
+      "sha256": "623a443eaa691c92a790aaa63fa4997b863ff0519cd982cfffb72ba720dd77eb",
+      "bytes": 4737737
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_akvarel_dvoustrana.pdf",
+      "sha256": "d5ec53edc094d7b4fdd74309b90aa4fe4777518fc2277a2dc6d7c71dd6a6b3b8",
+      "bytes": 4737318
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_akvarel_nahled.jpg",
+      "sha256": "0c4ec6b01981afe9f12c2e761b81f2984bad5a1df9ca7133dc19ec8954e3c5f3",
+      "bytes": 351490
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_kniha_original.png",
+      "sha256": "6ac01517930918e287e689d4a658d032be954b34515b46b9bbea8417c36541f3",
+      "bytes": 2152164
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_kniha_2xA4.pdf",
+      "sha256": "ddfc6f2c24341cde3e7455d514aa0e37493520eb102cd57400862d149dc33253",
+      "bytes": 4598591
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_kniha_dvoustrana.pdf",
+      "sha256": "02c6b59b5a4623d17bbd9198fb016eda64a1afaacbb3d57e4cec151cec44cbbf",
+      "bytes": 4598183
+    },
+    {
+      "path": "krvavy_priliv/quellu/Quellu_kniha_nahled.jpg",
+      "sha256": "d8f6c8c1d6b59814c3d68ca8e023102125e5e65e97f1d616457862a044f9d92d",
+      "bytes": 311271
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_gwent_original.png",
+      "sha256": "f3106dec24155c76009a229b360a863aa374b320bed4e9942780ed2d489bc49b",
+      "bytes": 2191640
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_gwent_2xA4.pdf",
+      "sha256": "0d0e5370221262920b2ec14745467eb4f30f5044394d29ecf64adc9cf86ec798",
+      "bytes": 4132627
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_gwent_dvoustrana.pdf",
+      "sha256": "f9a39e7a847b28c6cfa87939a045ea26fb6eea7312a6b5b33d2f2dfc14bd66ef",
+      "bytes": 4132214
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_gwent_nahled.jpg",
+      "sha256": "2952adf1cc7bd6a3ce717ef2913032a214a18d62261d07e3207cf4775168faac",
+      "bytes": 317475
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_akvarel_original.png",
+      "sha256": "a25e73f75366845224252bff072163d0acb906ec8e8e8e5a482afec165c21912",
+      "bytes": 2559780
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_akvarel_2xA4.pdf",
+      "sha256": "2009beae7151de00db358fe364472520ea6a3e53b595def4ccded22fc543b5ba",
+      "bytes": 4912042
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_akvarel_dvoustrana.pdf",
+      "sha256": "e6b1b8de02d77c8f81836df595356b3d435bd1920c3f3c37ce50491e8465abb8",
+      "bytes": 4911634
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_akvarel_nahled.jpg",
+      "sha256": "10458b27ee920317ebd021e195ce5127f2b06352c32ac91556410529c866ea1b",
+      "bytes": 372740
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_kniha_original.png",
+      "sha256": "df8cbdf1fe3e0af34f0646521548b8549030905f0cabd45cf93c0122ec161b88",
+      "bytes": 2271409
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_kniha_2xA4.pdf",
+      "sha256": "c502f9004d8955011239c043cc685e8f0b0cc1a272b81c5d9fdcdfe3d9223b9c",
+      "bytes": 4412857
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_kniha_dvoustrana.pdf",
+      "sha256": "64774798633db46fa36ac61a678a5e75eb227c81e9ca3722ef08f12891e9eba1",
+      "bytes": 4412456
+    },
+    {
+      "path": "krvavy_priliv/sasa/Sasa_kniha_nahled.jpg",
+      "sha256": "2e53726b3ae0766a128397e0d2dd4c50e3cb80d8d16a59dcfc40dcff46d1aa2f",
+      "bytes": 325564
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_gwent_original.png",
+      "sha256": "8ba0dd823ab52217a858ab0258cb42de8ba3abe04a100d899ff5abb714950e0b",
+      "bytes": 2186141
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_gwent_2xA4.pdf",
+      "sha256": "fa24ae58edd98de1b551f25dd070540c6845ca295c1e84498e3e48b01fde74a7",
+      "bytes": 4137626
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_gwent_dvoustrana.pdf",
+      "sha256": "56304a14d24dc01d776650a7bb0a1b65e4d42d79d223e41e7a2a9c6e3c51812b",
+      "bytes": 4137226
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_gwent_nahled.jpg",
+      "sha256": "ac6014977e98f2d7ca6c7452cf0ebf56e88abdf4a0557e6c88c74717381e3db3",
+      "bytes": 322014
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_akvarel_original.png",
+      "sha256": "d43a471a5390553e8cbff3e31827f7f47775280062cf51b40e45aa24e297fe52",
+      "bytes": 2512397
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_akvarel_2xA4.pdf",
+      "sha256": "b1ccc8d2cf4f1e1315463cae191451041d2b84212f75c855b0d797f3ff35ca85",
+      "bytes": 4833416
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_akvarel_dvoustrana.pdf",
+      "sha256": "5e9c6aff02af2ac82cf00095615fe6d4490447f32cd7647386f943935a6a8d66",
+      "bytes": 4832997
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_akvarel_nahled.jpg",
+      "sha256": "679766f0a0305c5897c8269677c0c655a09471d1ad37646ab5a7412cfe375b96",
+      "bytes": 372746
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_kniha_original.png",
+      "sha256": "0ee5b95cdba77948779206aa99cb8ab798cd9f5e41c3315a6e8a3e6ee7793f15",
+      "bytes": 2181963
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_kniha_2xA4.pdf",
+      "sha256": "0a3db46b5ac400ea628f276705fd964d1289709a7afa4bda1f781e40d09a626b",
+      "bytes": 4382428
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_kniha_dvoustrana.pdf",
+      "sha256": "a005d57e8227087d8dc33f1390d16cd95235c68df4cfc6ecbe11e8b53d7947a6",
+      "bytes": 4382021
+    },
+    {
+      "path": "sasa_plus/Sasa_plus_kniha_nahled.jpg",
+      "sha256": "6a8a1538b58ab333dca3409e85f86c29c258cc3b07a65575bb7675a887b0c369",
+      "bytes": 320714
+    },
+    {
+      "path": "krvavy_priliv/Krvavy_priliv_sest_hrdinu_gwent_12xA4.pdf",
+      "sha256": "e213f4dd29347dda53ff4ca7351bb857504d0624c659211e19b2e0482a548236",
+      "bytes": 25390084
+    },
+    {
+      "path": "krvavy_priliv/Krvavy_priliv_sest_hrdinu_akvarel_12xA4.pdf",
+      "sha256": "6d8825ffb1633fd8e77a368a8245026d269f5a083da1254697480cdb1f3330a8",
+      "bytes": 29410567
+    },
+    {
+      "path": "krvavy_priliv/Krvavy_priliv_sest_hrdinu_kniha_12xA4.pdf",
+      "sha256": "a101f3ad558cd43b17512e891c2dff96c9279766916f4ea148cd4cba866bef83",
+      "bytes": 27808802
+    },
+    {
+      "path": "sasa_plus/Sasa_vsechny_varianty_12xA4.pdf",
+      "sha256": "53c65923619942b9a9fd2bc46a9feea5d119ceba6de71a7300618b110ed52568",
+      "bytes": 26807162
+    }
+  ]
+}

@@ -81,3 +81,55 @@ drakem nad běžící rudou kočkou jsou doložené na s. 1 článku Sagjidara
 interpretací. Úpravu provedl built-in imagegen s původními obrazy jako
 předlohami; hlavní postava a text profilu byly zachovány. Aktualizovány
 jsou všechny tři náhledy, obrazy bez textu, dvoustrany a PDF po dvou A4.
+
+## Krvavý příliv — šest připravených hrdinů, 18. 11. 2026
+
+Na výslovné upřesnění autora jde o šest hráčských postav: Hazharr z Černého
+údolí, Si-li-nui, Far´wal’ngo, Aart Koen, Q’ellu Yuraq a Saša Krakorecká.
+Každá má tři nové ilustrace vytvořené built-in imagegen a sazbu podle Klíče
+bytostí: A4 s textem vlevo, A4 s celou postavou vpravo. Malé doplňkové obrazy
+zachycují charakteristickou výbavu. Každý styl má také společné PDF na 12 A4.
+
+Texty jsou zkrácením původního autorského dokumentu
+`Krvavý příliv_1.část tažení_KR_M4_noApp.docx`, B.6 Vzorové postavy ke hraní.
+Manifesty jednotlivých postav uvádějí přesná čísla odstavců extrahovaných
+z tohoto DOCX a celé znění karty. Čísla zahrnují i prázdné odstavce dokumentu.
+Archivní verze není vydávána za ověřený aktuální stav Overleafu.
+
+Karty zachycují stav při nalodění na Mrtvého krakena roku 865 k. l.
+Neobsahují číselné statistiky ani pozdější nálezy. Far´walova maska nemá
+magická sklíčka, Q’ellu ještě nezískal zpět svou hůl a Sili není hráčskou
+kartou odhalena skutečná role jejího mistra. Aartovo zakryté oko je funkční
+implantát. Hazharr není subotamský mnich.
+
+Čtyři podoby navazují na původní kresby z archivu SVV; Sili a Aart jsou
+interpretace slovního popisu, protože samostatné původní pojmenované
+portréty nebyly doloženy. Nové ilustrace nejsou přidány mezi původní
+kanonické obrazové prameny v rejstříku. Prostředí, pózy a konkrétní výtvarné
+provedení předmětů jsou nové návrhy. Soukromé cesty a původní rukopis
+se nepublikují.
+
+Před publikací série proběhla samostatná obrazová kontrola v autoritativním
+QA chatu. Autor zároveň upřesnil, že Far´wal má černou kůži pouštního elfa;
+údaj je zapracovaný do textu a do všech tří výtvarných variant. Výchozí
+světlé návrhy nejsou určeny k publikaci. Opravy anatomie a výbavy se evidují
+odděleně od původních PNG a každý výsledek kontroly je vázaný na otisk
+konkrétního obrázku.
+
+Před dokončením série obrazové QA přijalo šestnáct variant šestice
+a temnou malbu Sagjidary s opravenou rukou na zábradlí. Temná a akvarelová
+Saša byly tehdy vráceny kvůli ose kordu; knižní Saša v3 už opravu splňovala.
+Před publikací se každá výsledná ilustrace porovnává s aktuálním kladným
+verdiktem pomocí SHA-256. Starší kladné verdikty nahrazené požadavkem
+na opravu nejsou platným podkladem pro publikaci.
+
+
+## Hotové karty a Saša plus — 19. 11. 2026
+
+Veřejná nabídka obsahuje 26 dokončených variant osmi postav: Walden ve třech stylech, dvě schválené Sagjidary, všech 18 základních karet Krvavého přílivu a tři Sašiny varianty plus s dražikem Anóbržem. U Saši lze přepínat základ/plus při zachování zvoleného stylu; náhled, obraz i oba tiskové formáty se přepínají společně.
+
+Sašin kord byl po výslovném souhlasu autora opraven přímou lokální grafickou úpravou. Základní obrazy v6 a plus v4 prošly kontrolou obrazu i sazby; ověřeny jsou přesné SHA-256 všech výsledných souborů. Q’ellu je v poslední schválené v13, s mečem v detailu a tlumeným akvarelem. Sagjidara používá v6 s detailem vlajky; její akvarel zůstává mimo nabídku hotových karet kvůli otevřené opravě pláště.
+
+Anóbržova vazba na Sašu je doložena původním autorským listem Saši (odstavec 20); jméno a žabí oči autorským konceptem Štvanice (odstavec 225; také 509–511). Výtvarná podoba navazuje na Klíč dražiků. Přidání společníka nemění základní hráčský text.
+
+Publikují se pouze výsledné PNG, JPG, PDF a očištěné manifesty. Pracovní prompty, interní kontroly, soukromé cesty a nehotové obrazové revize nejsou součástí nové nabídky. Přehled souborů a jejich otisků je v cizi-postavy/hotove_karty.json.

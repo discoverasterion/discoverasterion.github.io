@@ -81,7 +81,6 @@
   ],
   "layout_reference": "Klíč bytostí, otevřená dvoustrana Bazilišek",
   "visual_reference": "Autorem potvrzená Midjourney ilustrace Waldena, 5. 9. 2023",
-  "status": "Redakční syntéza pramenů; tři výtvarné varianty nejsou další kanonické prameny",
   "variants": [
     {
       "id": "gwent",
@@ -122,5 +121,6 @@
         1054
       ]
     }
-  ]
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
 }

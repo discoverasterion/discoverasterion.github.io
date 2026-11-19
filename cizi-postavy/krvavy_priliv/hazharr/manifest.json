@@ -1,0 +1,111 @@
+{
+  "id": "hazharr",
+  "prefix": "Hazharr",
+  "name": "Hazharr z Černého údolí",
+  "short_name": "Hazharr",
+  "subtitle": "Lovec přízraků · medvědí lid Štítových hor",
+  "paragraphs": [
+    1233,
+    1237,
+    1240,
+    1243,
+    1244,
+    1245,
+    1246,
+    1249,
+    1250,
+    1255,
+    1257,
+    1260,
+    1263,
+    1265,
+    1267
+  ],
+  "visual_reference": "Hazzhar2_lovec přízraků.jpg — původní pojmenovaná kresba v archivu SVV",
+  "detail": "Medvědí tlapa se stříbrnými drápy",
+  "blocks": [
+    [
+      "Na první pohled",
+      "Vysoký, svalnatý muž s bujnou zrzavou kšticí. Medvědí kůži už nenosí jako oděv, slouží mu na spaní. Při boji spoléhá na pohyblivost v kožené zbroji; huňaté rukavice a návleky na lýtkách připomínají jeho původ ve Štítových horách. Za mohutnou postavou se skrývá houževnatý člověk s neobyčejně pevnou vůlí."
+    ],
+    [
+      "Muž činů",
+      "Hazharr je málomluvný, uzavřený a přímočarý. Když něco řekne, příliš nehledí na uhlazenost slov. Společnost nevyhledává, ale dluh vůči příteli bere vážně. Po hrůze, kterou jediný kostěj způsobil mezi jeho druhy, zasvětil své putování hledání slabin myšlenkových bytostí. Kniha, svitek nebo zkušený učitel pro něj mohou mít větší cenu než peníze."
+    ],
+    [
+      "Učedník, který odešel",
+      "V mládí se učil u kmenového šamana, kněze Gora uctívaného jako medvědí strážce Ghórr. Později dorazil s lupičem Vilemem do kláštera Daine. Subotamové jej naučili základům lovu přízraků, ale jejich život nebyl jeho cestou. Odešel se sartem od Vísítára a mapou k Přízračínu. Není subotamským mnichem."
+    ],
+    [
+      "Dluh a výbava",
+      "Vilemova prosba přerušila cestu do Přízračína. Hazharr má plout na Mrtvém krakenovi k Manžár Nu, zjistit stav Kirbegových sil a vyhledat kontakt s dalšími informacemi. Špionáž se mu příčí, přesto chce splatit záchranu života. Na cestě ho provázejí sart, Černé kopí a rukavice ze skutečných medvědích tlap; jejich drápy si v Daine nechal nahradit stříbrnými."
+    ]
+  ],
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "period": "Výchozí stav při nalodění na Mrtvého krakena, rok 865 k. l.",
+  "text_source": {
+    "file": "Krvavý příliv_1.část tažení_KR_M4_noApp.docx",
+    "section": "B.6 Vzorové postavy ke hraní",
+    "paragraphs": [
+      1233,
+      1237,
+      1240,
+      1243,
+      1244,
+      1245,
+      1246,
+      1249,
+      1250,
+      1255,
+      1257,
+      1260,
+      1263,
+      1265,
+      1267
+    ]
+  },
+  "editorial_policy": "Redakční zkrácení pro hráčské karty. Bez číselných pravidlových statistik a bez předem určených výsledků dobrodružství. Znalosti postavy jsou oddělené od tajemství vypravěče; zejména u Sili není odhalena skutečná role jejího mistra. Nové prostředí, přesné pózy a provedení předmětů jsou výtvarné interpretace, nikoli další pramen lore.",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Hazharr_gwent_original.png",
+      "pdf": "Hazharr_gwent_2xA4.pdf",
+      "spread_pdf": "Hazharr_gwent_dvoustrana.pdf",
+      "preview": "Hazharr_gwent_nahled.jpg",
+      "image_sha256": "fdc509d27d2104c4455de5192155a319f9ab97b414079c8ec4c17d6f063f479d",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Hazharr_akvarel_original.png",
+      "pdf": "Hazharr_akvarel_2xA4.pdf",
+      "spread_pdf": "Hazharr_akvarel_dvoustrana.pdf",
+      "preview": "Hazharr_akvarel_nahled.jpg",
+      "image_sha256": "4dc7ca457860a177993c976cfaad9410acea8a03f86e2703680c17004a11c398",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Hazharr_kniha_original.png",
+      "pdf": "Hazharr_kniha_2xA4.pdf",
+      "spread_pdf": "Hazharr_kniha_dvoustrana.pdf",
+      "preview": "Hazharr_kniha_nahled.jpg",
+      "image_sha256": "4cd0cf865912b2609ce792105887b928f0b75b5961ac9917d0433f97aff0c7d9",
+      "size": [
+        1491,
+        1055
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

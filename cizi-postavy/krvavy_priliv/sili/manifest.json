@@ -1,0 +1,105 @@
+{
+  "id": "sili",
+  "prefix": "Sili",
+  "name": "Si-li-nui",
+  "short_name": "Sili",
+  "subtitle": "Skřítčí alchymistka · poutnice ze Zlatého lesa",
+  "paragraphs": [
+    1321,
+    1325,
+    1326,
+    1327,
+    1330,
+    1331,
+    1337,
+    1340,
+    1341,
+    1342,
+    1349,
+    1350
+  ],
+  "visual_reference": "Nová interpretace podle vzhledu v původním autorském DOCX; samostatný pojmenovaný portrét zde nebyl doložen.",
+  "detail": "Deník a alchymistická truhla",
+  "blocks": [
+    [
+      "Na první pohled",
+      "Sili měří přibližně metr třicet a postavou připomíná drobnou dospělou ženu. Velké medové oči ji však prozradí jako skřítku. Světlehnědé vlasy splétá do copu; černou kápí zakrývá popáleniny u levého spánku, oka a na části tváře. Přes šedou tuniku a zelené kalhoty nosí koženou zbroj a černý plášť se stříbrnými runami, který lze obrátit zelenou stranou ven."
+    ],
+    [
+      "Paměť v deníku",
+      "Je zvídavá, sečtělá a zpravidla klidná. Ráda hovoří o bylinách, historii a astrologii; o vlastní minulosti mlčí, protože si z ní mnoho nepamatuje. Deník vede proto, aby už nic důležitého neztratila. Několikrát denně kontroluje celou výbavu. Velké požáry a ohnivá kouzla v ní vyvolávají silný strach; u běžného táborového ohně si raději sedá dál."
+    ],
+    [
+      "Něco, co bude mít význam",
+      "Sili věří, že svého mistra zklamala a smí se vrátit teprve po velkém činu. Hledá proto mocný artefakt nebo příležitost vykonat něco důležitého pro Asterion. Poslední dva roky putovala Dálavami. S elfem Far´walem ji spojuje důvěra a společná dobrodružství; nyní míří na jih také za stopami ztraceného Proroctví."
+    ],
+    [
+      "Co má stále při sobě",
+      "Přes rameno nosí dřevěnou alchymistickou truhlu s lesními rytinami. Athorské stříbro s kulovitým tyrkysem na jejím přívěšku představuje Modrý měsíc. Pro boj zblízka má krátký meč, dýku a elementární hůl; na dálku hůře vidí. Amulet z mořského šneka, koupený na erinském tržišti, jí pomáhá pohybovat se a dýchat pod vodou."
+    ]
+  ],
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "period": "Výchozí stav při nalodění na Mrtvého krakena, rok 865 k. l.",
+  "text_source": {
+    "file": "Krvavý příliv_1.část tažení_KR_M4_noApp.docx",
+    "section": "B.6 Vzorové postavy ke hraní",
+    "paragraphs": [
+      1321,
+      1325,
+      1326,
+      1327,
+      1330,
+      1331,
+      1337,
+      1340,
+      1341,
+      1342,
+      1349,
+      1350
+    ]
+  },
+  "editorial_policy": "Redakční zkrácení pro hráčské karty. Bez číselných pravidlových statistik a bez předem určených výsledků dobrodružství. Znalosti postavy jsou oddělené od tajemství vypravěče; zejména u Sili není odhalena skutečná role jejího mistra. Nové prostředí, přesné pózy a provedení předmětů jsou výtvarné interpretace, nikoli další pramen lore.",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Sili_gwent_original.png",
+      "pdf": "Sili_gwent_2xA4.pdf",
+      "spread_pdf": "Sili_gwent_dvoustrana.pdf",
+      "preview": "Sili_gwent_nahled.jpg",
+      "image_sha256": "e074e232452116debddf83e2ec7243bf080d3b068abb966237d427dd63e3066b",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Sili_akvarel_original.png",
+      "pdf": "Sili_akvarel_2xA4.pdf",
+      "spread_pdf": "Sili_akvarel_dvoustrana.pdf",
+      "preview": "Sili_akvarel_nahled.jpg",
+      "image_sha256": "eea472dd4fd76356b9c15c3dd4ab9a2652359d6362f354192a9674ed340042db",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Sili_kniha_original.png",
+      "pdf": "Sili_kniha_2xA4.pdf",
+      "spread_pdf": "Sili_kniha_dvoustrana.pdf",
+      "preview": "Sili_kniha_nahled.jpg",
+      "image_sha256": "c2a2607dbec4a3e9e38459be886736566153b679f30ead4e2d433df2f1931e18",
+      "size": [
+        1491,
+        1055
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "sasa",
+  "prefix": "Sasa",
+  "name": "Saša Krakorecká",
+  "short_name": "Saša",
+  "subtitle": "Kněžka Dunril · dcera erinského rodu Krakoreckých",
+  "paragraphs": [
+    1571,
+    1572,
+    1575,
+    1576,
+    1579,
+    1584,
+    1585,
+    1588,
+    1592,
+    1595,
+    1631
+  ],
+  "visual_reference": "Saša Krakorecká2_kněžka Dunril.jpg — původní pojmenovaná kresba v archivu SVV",
+  "detail": "Zdobený kord, lazurit a siwrisová zbroj",
+  "blocks": [
+    [
+      "Na první pohled",
+      "Vysoká, štíhlá mladá žena s jasně modrýma očima a černými vlnitými vlasy zastřiženými na mikádo. Bohatý původ dává najevo kvalitními látkami a výraznými šperky s lazuritem. Na palubě nosí krátké temně modré šaty s černým lemováním, přiléhavou koženou zbroj, vysoké černé holínky, punčochy nad kolena a dlouhé rukavice. U pasu má zdobený kord s modrými perlami na záštitě."
+    ],
+    [
+      "Nuda je nejhorší nepřítel",
+      "Saša je výbušná, má prořízlý jazyk a ráda vyhledává nebezpečí. Společnost svobodných lidí a dobrodruhů jí vyhovuje víc než pravidla rodinného života. Peníze nejsou její hlavní motivací: touží po zážitcích a vzrušení. Má slabost pro červené víno, zejména Keledorské zlato, a několik lahví se pokusí propašovat i na loď se zákazem alkoholu."
+    ],
+    [
+      "Pod ochranou Paní vod",
+      "Narodila se roku 840 v Erinu. Když jako tříletá přežila pád z okna do kanálu, rodina v tom viděla boží zásah a poslala ji studovat do církve Paní vod. Později vystudovala mořskou faunu na Erinské mořeplavecké univerzitě. Na dobrodružné výpravě do Šeptajícího hvozdu a Zářící hlubiny získala siwrisovou zbroj; jako kněžka pak podnikla několik námořních cest."
+    ],
+    [
+      "Na Mrtvém krakenovi za trest",
+      "Útěk z vlastní domluvené svatby vyčerpal otcovu trpělivost. Jošt Krakorec ji poslal na Mrtvého krakena, aby ji vzdálil erinským skandálům a posílil obchodní vztahy s rodem Dieriů. Kněžku vodní bohyně přitom posádka ráda přijme. Pro Sašu může být vynucená plavba další příležitostí k dobrodružství; peníze ani návrat k poslušnému životu ji samy o sobě nelákají."
+    ]
+  ],
+  "plus": false,
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Sasa_gwent_original.png",
+      "pdf": "Sasa_gwent_2xA4.pdf",
+      "spread_pdf": "Sasa_gwent_dvoustrana.pdf",
+      "preview": "Sasa_gwent_nahled.jpg",
+      "image_sha256": "f3106dec24155c76009a229b360a863aa374b320bed4e9942780ed2d489bc49b"
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Sasa_akvarel_original.png",
+      "pdf": "Sasa_akvarel_2xA4.pdf",
+      "spread_pdf": "Sasa_akvarel_dvoustrana.pdf",
+      "preview": "Sasa_akvarel_nahled.jpg",
+      "image_sha256": "a25e73f75366845224252bff072163d0acb906ec8e8e8e5a482afec165c21912"
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Sasa_kniha_original.png",
+      "pdf": "Sasa_kniha_2xA4.pdf",
+      "spread_pdf": "Sasa_kniha_dvoustrana.pdf",
+      "preview": "Sasa_kniha_nahled.jpg",
+      "image_sha256": "df8cbdf1fe3e0af34f0646521548b8549030905f0cabd45cf93c0122ec161b88"
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

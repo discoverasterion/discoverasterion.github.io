@@ -1,0 +1,68 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-18",
+  "image_revision": 6,
+  "detail": "Jeden souvislý bezrukávový plášť spadá z ramen za pažemi; odstraněno falešné napojení suknice pod opaskem. Bílá vlajka Mořské kočky zachována.",
+  "name": "Sagjidara I.",
+  "period": "Profil po nástupu na trůn a narození Siovala; starší námořnický vzhled jako obrazová předloha.",
+  "text_sources": [
+    {
+      "file": "14 - stopnuto - PSS Pro smrt a slávu - Vojenství.docx",
+      "kind": "primární autorský modulový rukopis",
+      "paragraphs": [
+        145,
+        146,
+        147,
+        148,
+        157,
+        164
+      ]
+    },
+    {
+      "file": "Linie vládců plaveny.docx",
+      "kind": "původní autorský text",
+      "paragraphs": [
+        9,
+        10,
+        20,
+        28
+      ]
+    },
+    {
+      "file": "Sagjidara.pdf / Dech draka 1/2002",
+      "kind": "sekundární článek a obrazová předloha",
+      "location": "samostatný článek s. 1–2; časopisecký portrét na tištěné s. 45"
+    }
+  ],
+  "layout_reference": "Klíč bytostí; návaznost na Waldenovu dvoustranu",
+  "visual_reference": "Sagjidara, Dech draka 1/2002, tištěná strana 45",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Sagjidara_gwent_original.png",
+      "pdf": "Sagjidara_gwent_2xA4.pdf",
+      "spread_pdf": "Sagjidara_gwent_dvoustrana.pdf",
+      "preview": "Sagjidara_gwent_nahled.jpg",
+      "image_sha256": "6b84ada2f2a291ded0b4519f4cc6ab0425d0752c6a4dffd452cc712e3592ad16",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Sagjidara_kniha_original.png",
+      "pdf": "Sagjidara_kniha_2xA4.pdf",
+      "spread_pdf": "Sagjidara_kniha_dvoustrana.pdf",
+      "preview": "Sagjidara_kniha_nahled.jpg",
+      "image_sha256": "57183717715c8e29f0d79661d988093e514f4622d77fdf9ee7b4223232255da0",
+      "size": [
+        1492,
+        1054
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}

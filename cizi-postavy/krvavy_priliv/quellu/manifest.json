@@ -1,0 +1,84 @@
+{
+  "id": "quellu",
+  "prefix": "Quellu",
+  "name": "Q’ellu Yuraq",
+  "short_name": "Q’ellu",
+  "subtitle": "Korullský čaroděj · vyhnanec z Říše slepých bohů",
+  "paragraphs": [
+    1501,
+    1502,
+    1505,
+    1508,
+    1511,
+    1516,
+    1517,
+    1518,
+    1519,
+    1535,
+    1537,
+    1539
+  ],
+  "visual_reference": "Quellu_čaroděj.jpg — původní pojmenovaná kresba v archivu SVV",
+  "detail": "Yaku Uyay — široký zlatý meč; tvar podle původní 2D kresby a renderu oficiální 3D figurky.",
+  "blocks": [
+    [
+      "Síla, která klame",
+      "Dvoumetrového korulla s pletenci svalů by málokdo považoval za mága. Q’ellu však ovládá oheň a vzduch a inteligencí nijak nezaostává za svou tělesnou silou. Ve volné tóze nebo do pasu odhalený dává na odiv staré jizvy po magii. Lidé je snadno pokládají za památky z bitev. Korullský původ prozrazují i drobnosti, například neochlupené uši."
+    ],
+    [
+      "Cizinec mezi královskými",
+      "Pochází z nadřazené kasty Říše slepých bohů a tuto představu o sobě neopustil ani v cizině. Mluví povýšeně, jeho narážky však často zanikají v neobratné obecné řeči. Pochází z Kylrafaty. Magické nadání jej přivedlo do armády; během přepadení štířími lidmi dezertoval a dlouhou oklikou se dostal až do Sarindaru."
+    ],
+    [
+      "Cena za plavbu",
+      "Rodový strach z vody jej při prvním pokusu odplout zcela ochromil. U alchymisty si proto nechal vyrobit tlumící amulet. Zaplatil za něj dědičnou hůlí z pokroucené vrby, kterou jeho rodina po devět generací zalévala krví. Amulet mu otevřel cestu do dalších zemí, ale kouzlení s ním přináší větší únavu. Velkou zlatou medaili s runami vody si proto pečlivě chrání."
+    ],
+    [
+      "Získat zpět dědictví",
+      "Po zkáze Sarindaru pocítil, že někdo použil moc jeho hole. Teď se chce vrátit na jih a zjistit, zda hůl přežila a kde ji hledat. Na začátku dobrodružství ji ještě nevlastní. Z rodného kraje mu zůstal hrubý široký zlatý meč Yaku Uyay; pro rituální magii používá dýku. Výprava pro něj představuje možnost získat zpět část vlastní minulosti."
+    ]
+  ],
+  "tool": "built-in image_gen",
+  "variants": [
+    {
+      "id": "gwent",
+      "style": "Temná malba",
+      "image": "Quellu_gwent_original.png",
+      "pdf": "Quellu_gwent_2xA4.pdf",
+      "spread_pdf": "Quellu_gwent_dvoustrana.pdf",
+      "preview": "Quellu_gwent_nahled.jpg",
+      "image_sha256": "98669be217d26a78ccefa873fa0941067808dafcf8c6461674dc652469de76f7",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "akvarel",
+      "style": "Volný akvarel",
+      "image": "Quellu_akvarel_original.png",
+      "pdf": "Quellu_akvarel_2xA4.pdf",
+      "spread_pdf": "Quellu_akvarel_dvoustrana.pdf",
+      "preview": "Quellu_akvarel_nahled.jpg",
+      "image_sha256": "25d394afcee7cb5530cd4631cb1b76be54ceb0ae22fc94cedc422137b866f000",
+      "size": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "id": "kniha",
+      "style": "Jemná knižní ilustrace",
+      "image": "Quellu_kniha_original.png",
+      "pdf": "Quellu_kniha_2xA4.pdf",
+      "spread_pdf": "Quellu_kniha_dvoustrana.pdf",
+      "preview": "Quellu_kniha_nahled.jpg",
+      "image_sha256": "6ac01517930918e287e689d4a658d032be954b34515b46b9bbea8417c36541f3",
+      "size": [
+        1491,
+        1055
+      ]
+    }
+  ],
+  "status": "Dokončená karta; nová výtvarná interpretace"
+}
